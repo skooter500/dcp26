@@ -53,7 +53,7 @@ Quick References:
 
 # Lab 1: Night Shift at the Data Centre
 
-You will find many interesting videos in my [playlist of computer science history](https://www.youtube.com/watch?v=Iz_L47OKjJg&list=PL1n0B6z4e_E7afXxRh-nbjmRUssHMZDns).
+You will find many interesting interesting videos in my [playlist of computer science history](https://www.youtube.com/watch?v=Iz_L47OKjJg&list=PL1n0B6z4e_E7afXxRh-nbjmRUssHMZDns).
 
 ```
  ______________________________________________________________________________
@@ -264,7 +264,7 @@ TOTAL INTEREST    157.63
 
 ## Handing In
 
-Submit `ibm1401.py`. You don't have to complete everything! Make sure the menu handles bad input without crashing, and that every option returns to the menu when it's done. Also NO AI today. This is the 1960's.
+Submit `ibm1401.py` on Brightspace. You don't have to complete everything! Make sure the menu handles bad input without crashing, and that every option returns to the menu when it's done. Also NO AI today. This is the 1960's.
 
 - [Learn how to use bash and git](https://github.com/skooter500/csresources/blob/main/gitlab.md)
 - [Python Quick Reference](week1/python_quick_ref.html)
@@ -273,3 +273,4 @@ Submit `ibm1401.py`. You don't have to complete everything! Make sure the menu h
 
 - [Python Notes](week1/python_complete_presentation.pdf)
 - [Python Quick Reference (Printable)](week1/python_quick_ref.html)
+- [Hello Python](week1/hello_python.py)

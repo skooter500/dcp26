@@ -21,3 +21,8 @@ for c in name:
 for i in range(len(name)):
     print(name[i])
 
+i = 10
+while (i>=0):
+    print(i)
+    i -= 1
+
