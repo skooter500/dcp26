@@ -8,7 +8,7 @@ Welcome to the Metaverse
 
 ## Assessment
 - 20% Weekly submissions
-- [30% Assignment](https://github.com/skooter500/dcp25-assignment)
+- [30% Assignment/Test]()
 - 50% Exam
 
 # Resources
