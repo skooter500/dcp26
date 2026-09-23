@@ -1,0 +1,3857 @@
+
+
+
+X:21001 
+T:FUNNY TAILOR, The
+B:DMI.960
+Z:Nordberg/Black
+N:This is in the "Set Dance" section of DMI,
+with 15 measures and no break between parts.
+R:jig 
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+BA|GED GAB|GBA G2G|G2A Bcd|efg fed|
+e2B d2A|Bcd efg|fed g2B|dBA GED|
+GAB GBA|G2G G2A|Bcd efg|fed g2B|
+dBA GED|GAB GBA|G2G G3|]
+
+%%%
+
+X:21002 
+T:BUNKER HILL (reel)
+B:DMI.0787
+Z:Nordberg/Black
+R:reel
+%Q:1/4=180
+M:C|
+L:1/8
+K:G
+GEEG D3E|FGAB c2Bc|ABAG EFGB|ABcA d2cA|
+GEE2 D3E|FGAB c2Bc|dBcA BGEG|ABcA d2cA||
+Gcc2 ecc2|Gccd eAGc|Add2 fdd2|AddB cAGA|
+FGAB cAdB|cAdB c2Bc|dBcA BGEG|ABcA d2ag||
+fdd2 fdad|fddf a2gf|gee2 gebe|gbeg b2ag|
+fdd2 fdad|fdAB c2Bc|dBcA BGEG|ABcA d4|]
+
+%%%
+
+X:21003 
+T:BOIL THE BREAKFAST EARLY (reel)
+B:DMI.789
+Z:Nordberg/Black
+R:reel
+%Q:1/4=180
+M:C|
+L:1/8
+K:G
+GBBG AFDF|GBBd c2BA|GBBG AFDF|GEEG c2BA|
+GBBG AFDF|GBBd c2Bc|dBcA BGAF|GEEG c2Bc||
+dAA2 dAFA|dAA^c defe|dAA2 dAFA|GEEG c2Bc|
+dAA2 dAFA|d^cde dgfe|dBcA BGAF|GEEG c2BA||\
+"final"HG4z4|]
+
+%%%
+
+X:21004 
+T:ABSENT-MINDED WOMAN (reel), The
+B:DMI.772
+Z:Nordberg/Black
+R:reel
+%Q:1/4=180
+M:C|
+L:1/8
+K:G
+G2GA BGBd|edgd edBA|G2GA BABd|egdB AGEF|
+G2GA BGBd|edgd e2dB|dega bage|d2BG AGED||
+g2bg agbg|g2bg aged|g2bg agbg|gedB AGED|
+g2bg agbg|g2bg aged|bgaf gedB|cABG AGED||\
+"final" HG4z4|]
+
+%%%
+
+X:21005 
+T:ALL THE WAY TO GALWAY (reel)
+B:DMI.0999
+Z:Nordberg/Black
+R:reel
+%Q:1/4=180
+M:C
+L:1/8
+K:G
+"D modal"
+A|defd cAAc|BGG2 cAAc|defd cAAc|BGAF D3:|
+G|ABAG ABcA|GAGF EFGE|ABAG ABcd|cAGE D2DG|
+ABAG ABcA|GAGF EFGE|ABAG AddB|cAGE D4|]
+
+%%%
+
+X:21006
+T:AUTUMN WOODS (hornpipe), The 
+B:DMI.0900
+Z:Nordberg/Black
+R:hornpipe
+%Q:1/4=75
+M:2/4
+L:1/16
+K:G
+Bc|dedc BcBA|GFGD EDB,D|cBce dBgB|AGAB A2Bc|
+dedc BcBA|GFGD EDB,D|Ggfe dcBA|G2G2G2:|
+cB|ABAG FGAB|cBce defg|afge fdec|dcde dcBc|
+dcBd cBAc|BAGF GABc|dgfe dcBA|G2G2G2:|
+
+%%%
+
+X:21007
+T:BANTRY HORNPIPE, The 
+B:DMI.0937
+Z:Nordberg/Black
+R:hornpipe
+%Q:1/4=150
+M:C|
+L:1/8
+K:G
+P:simplified version
+dc|BAGB cBcA|dbge dedB|cecA (3Bcd BG|FGAG FDEG|
+BABG cBcA|dbge dedB|cedc BGAF|G2B2G2:|
+%
+cB|AGAB cBce|dfge dcdB|cecA (3Bcd BG|FGAG FDEF|
+GFGA BGFD|GABG ABcA|dgfe d2cA|G2B2G2:|
+%
+Bc|dgBg dgBg|g2bg fdef|gage dedc|BGAF GDB,D|
+Ggge dBGB|cBcd efge|dgfe d2cA|G2B2G2:|
+%
+dc|BGGF GDB,D|(3GFG BG ABcA|dcde fdcA|d2cA d2cA|
+BGGF GDB,D|G2BG ABcA|dgfe d2cA|G2B2G2:|
+
+
+%%%
+
+X:21008
+T:BARONY JIG, The    
+B:DMI.0970
+Z:Nordberg/Black
+R:9/8 % set dance 
+N:Normally the two parts of a slip jig would not be
+repeated. DMI setting of this tune contains repeats.
+%Q:1/4=150
+M:9/8
+L:1/8
+K:Am
+B|c2A c2A AGE|c2A ABd e2d|c2A c2A AGE|GED DEG A2B|
+c2A c2A AGE|c2A ABd e2d|c2A efd cBA|GED DEG A2||
+B|c2d ecA AGE|c2d e2d e2d|c2d ecA AGE|GED DEG A2B|
+c2d ecA AGE|c2d e2d e2d|cde ged ecA|GED DEG HA3|]
+
+%%%
+
+X:21009 
+T:BARRACK HILL  
+B:DMI.0410
+Z:Nordberg/Black
+N:A jig version of "Tralee Jail"!
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+"A dorian"
+e2A A2f|e2d Bcd|e2A A2B|G2A Bcd|
+e2A A2f|e2d Bcd|e2d g2B|A3 A3:|
+e2d efg|a2b g2e|d2e d2B|d2e dcB|
+[1 e2d efg|a2b g2e|d2B g2B|A3 A3:|
+[2 e2d e2f|g2a b2a|g2e d2B|A2a agf||\
+"final"HA3z3|]
+
+%%%
+
+X:21010
+T:BELLES OF LISCARROLL, The  
+B:DMI.0339
+Z:Nordberg/Black
+N:I have opted to treat this near-relative of 
+"Walls of Liscarroll" as a modal tune. To hear
+what the source version sounds like, replace
+G with D in the K: field.
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+"D modal"
+c2c dfd|ecA GED|c2c dAF|GEE GAB|
+c2c dfd|ecA ABc|d^cA GEA|1 DED DFA:|\
+[2 DED dAG||
+F2F DGG|DFA GFE|DFF DFA|BGE EAG|
+F2F G2G|AGA fdf|ecA GEA|1 DFA dAG:|\
+[2 DED D2c||
+d2d DFA|G2G EFA|Bcd DFA|BGE EFA|
+dfd cec|BdB AFD|DFA DdB|ABG FED:|
+
+%%%
+
+X:21011 
+T:BOYS OF BALLINAFAD, The  
+B:DMI.0195
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:A
+f|ecA AcA|ecA F2A|EFA ABc|edc B2f|
+ecA AcA|F2A E2c|d2f ecA|BAA A2:|
+f|ecA Ace|fde fga|ecA AGA|BGE Ecd|
+ecA Ace|fde fga|edc BAB|cAA A2:|
+
+%%%
+
+X:21012
+T:BESIDE A RATH (hornpipe)
+B:DMI.0943
+Z:Nordberg/Black
+R:hornpipe
+%Q:1/4=150
+M:C|
+L:1/8
+K:G
+BA|GEDE G2GA|Bdde dcBA|BGED EFGA|BGcB AGEF|
+GEDE G3A|Bdef gage|fdce dBGB|A2G2G2:|
+ef|gfef dfag|fdeB d3e|dBAF GABd|cBAG EGFA|
+GEDE G3A|Bdef gage|fdce dBGB|A2G2G2:|
+
+%%%
+
+X:21013
+T:BIDDY EARLY (hornpipe) 
+B:DMI.0946
+Z:Nordberg/Black
+R:hornpipe
+%Q:1/4=150
+M:C
+L:1/8
+K:G
+"A dorian"
+B|c2cB cdeg|dedB GABd|cAA2 ecAc|dcBA GABd|
+c2cA cdeg|dedB GABd|cBAg edcB|c2A2A2:|
+ef|gfga gedc|BcdB GABd|agab agea|gede cdef|
+geaf gedB|cBAB cdea|gfge dfed|c2A2A2:|
+
+%%%
+
+X:21014 
+T:BILLY MCCORMICK 
+B:DMI.0341
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+"A dorian"
+E|ABA ABd|edB gfe|GAG BAG|dBG AGE|
+ABA ABd|edB def|gfe fdB|BAG A2:|
+e|aga age|aba age|gfg gdB|GBc deg|
+aba gag|edB cde|gfe fdB|BAG A2:|
+
+%%%
+
+X:21015 
+T:BILLY O'ROURKE IS THE BOY 
+B:DMI.0987
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:D
+e|d2B BcB|A2A A2A|B2B BcB|g3 f2e|
+d2B BcB|A2A A2c|Bcd ecA|d3 d2:|
+A|d2e f2g|aba a2f|d2e f2g|a3 f2a|
+bab a2f|gag f2e|d2B BcB|g3 f2e|
+d2B BcB|A2A A2A|b2B BcB|g3 f2e|
+d2B BcB|A2A A2c|Bcd ecA|d3 Hd3|]
+
+%%%
+
+X:21016 
+T:BOW-LEGGED TAILOR, The  
+B:DMI.0131
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+G|GAG gfg|edc B2A|GAG BAG|FAA cBA|
+GAG gfg|afd cAF|DEG Adc|BGG G2:|
+d|dBG dBG|ecA dBG|gba gBd|cAA ABc|
+dBg dBG|EFG AFD|GFG Adc|BGG G2:|
+
+%%%
+
+X:21017
+T:BRYAN O'LYNN 
+B:DMI.0221
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:Am
+B|cAd cAG|EGE GAB|cAd cAG|EAA A2B|
+cAd cAG|EGE GAB|cde fed|cAA A2:|
+^f|gag ged|cAB cde|eaa age|edd d2^f|
+gag ged|cAB cde|fed cAG|EAA A2:|
+
+
+%%%
+
+X:21018 
+T:BRIDAL JIG, The  
+B:DMI.0310 
+Z:Nordberg/Black
+N:AA-BB-A in source
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+D|G3 BGB|def gdB|ecA dBG|FAG FED|
+G2G BGB|def gdB|ecA dBG|FEF G2:|
+B|Bee edB|def g2a|bgb afa|geg fdB|
+Bee edB|def g2a|bgb afa|1 gee e2:|\
+[2 g2f g3|]
+
+%%%
+
+X:21019 
+T:CAHILL'S WORKSHOP 
+B:DMI.0408
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:Am
+B|A3 AGE|G2E E3|A3 Bcd|ecA A2B|
+A3 AGE|G2E G2E|D2E G2A|1 B2G G2:|\
+[2 B2A A2||
+c|B2d d2B|G2E E3|c2A Bcd|ecA A2c|
+B2d d2B|G2E G2E|D2E G2A|1 B2G G2:|\
+[2 B2A A3|]
+
+%%%
+
+X:21020
+T:CAHIRAMEE JIG, The 
+B:DMI.0445
+Z:Nordberg/Black
+R:slip jig
+%Q:1/4=150
+M:9/8
+L:1/8
+K:G
+D|D2G G2A B3|A2A A2B c3|BcB B2A G3|ABA A2G F2D|
+D2G G2A B3|A2A A2B c3|ded d2c B2G|ABA A2F G2||
+z|B2d d2d d3|e2e e2f g3|d2d d2c B2G|ABA A2G F2D|
+B2d d2d d3|e2e e2f g3|ded d2c B2G|ABA A2F G3|]
+
+
+%%%
+
+X:21021 
+T:CAPTAIN BYNG (reel)
+B:DMI.0736
+Z:Nordberg/Black
+N:Not quite identical with the session polka but close enough!
+N:Single in DMI
+R:reel
+%Q:1/4=180
+M:C
+L:1/8
+K:G
+d|gfgd BGG2|eaag fdef|gfgd BGGB|cAdB G2Gd|
+gfgd BGG2|eaag fdcA|Bdef gage|dBAB G2 :|
+c|BGdG BGGB|cAeA cAAc|BGdG BGGB|cAdB G2GA|
+BGdG BGGB|cAeA cAAc|Bdef gage|dBAB G2 :|
+
+%%%
+
+X:21022 
+T:CAPTAIN ROCK (reel)
+T:The Old Bush, Long Hills of Mourne
+B:DMI.0781
+Z:Nordberg/Black
+N:Source shows no naturals but this is always 
+played as a modal tune today. 
+N:Single in DMI
+R:reel
+%Q:1/4=180
+M:C|
+L:1/8
+K:G
+"D modal"
+G|AGAB cAGB|Adde fdec|AGAB cAGc|dfed cAGB|
+ADED cAGB|Adde f2fg|afge fdec|dfed cAA :|
+f|g2ge c3e|g2ge d3e|f2fd e2ec|dfed cAAf|
+g2ge a2af|gfge abag|f2fd efec|dfed cAA :|
+
+%%%
+
+X:21023 
+T:CARBRAY'S FROLICS 
+B:DMI.0407
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:D
+d|c2A Bcd|AGF E2D|EFE E2D|EFE E2d|
+c2A Bcd|AGF E2D|F2D GEC|DED D2:|
+G|A3 AFD|FED AFD|EFE E2D|EFE E2G|
+A3 AFD|FED AFD|F2D GEC|DED D2:|
+
+%%%
+
+X:21024 
+T:CASTLETOWN CONNERS 
+B:DMI.0324
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:Em
+B|Bee B^cd|ABG FED|GFG A2A|B2A B^cd|
+Bee B^cd|ABG FED|DFA dAF|FEE E2:|
+B|BEF G2A|BAG FED|BEF G2A|B2A Bee|
+BEF G2A|BAG FED|DFA dAF|FEE E2:|
+
+%%%
+
+X:21025 
+T:CAT AND THE BACON, The  
+B:DMI.0308
+Z:Nordberg/Black
+N:DMI shows no C naturals but this sounds to me
+very much like a D modal tune. To hear the source
+version, replace G with D in the K: field.
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+"D modal"
+G|Add Add|efd c2A|Add Add|efd cAG|
+Add Add|efd c2d|ecA G2E|FDD D2:|
+g|aba gag|fed ecA|AcA c2d|cAd cAG|
+Add Add|efd c2d|eaa gec|edd d2:|
+
+%%%
+
+X:21026 
+T:CHICAGO REEL, The  
+B:DMI.0797
+Z:Nordberg/Black
+N:Single in DMI
+R:reel
+%Q:1/4=180
+M:C|
+L:1/8
+K:G
+"A dorian"
+AB|c2ed cAGE|GFGA GAcd|ecgc acgc|edcd efge|
+c2ed c2AF|GFGA GBcd|eaag efdB|cABG A2 :|
+AB|cdef g2ef|gage dBGB|cdef gagf|baag aged|
+cdef g2fg|abaf gbag|fefd efed|cABG A2 :|
+
+
+%%%
+
+X:21027 
+T:CHORUS JIG, The  
+B:DMI.0342
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+"D modal"
+E|FAD DEF|AFD FED|FAD DFG|A2A BGE|
+FAD DEF|AFD FED|E2E dAF|G3 GF:|
+E|D2d dcd|F2A AFA|D2d dcd|1 A2A BGE|
+D2d dcd|F2A AFA|BdB cAF|G3 GF:|
+[2 ABA ABc|dcB cBA|BAG AGF|E2E dAF|\
+G3 GF||
+E|FED FAF|GBG FAG|FED FAF|1 A2A BGE|
+FED FAF|GBG FAF|E2E dAF|G3 GF:|
+[2 A3 ABc|dBd cAc|BdB AGF|E2E dAF|
+G3-G3|]
+
+%%%
+
+X:21028 
+T:CHURCH HILL 
+B:DMI.0343
+Z:Nordberg/Black
+N:No accidentals in source but I suspect that C's 
+should be natural. Replace G with D in the K: field
+to hear the source version.
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+"D modal"
+dcA A2D|FAD FED|dcA A2B|dcA GED|
+dcA A2D|FAD FED|dcA ABc|dcA GED:|
+DED c2A|ded c2c|DED c2e|dcA GED|
+DED cBc|ded cde|fdf e2e|dcA GED:|
+
+%%%
+
+X:21029 
+T:CLANCY'S FANCY REEL 
+B:DMI.0801
+Z:Nordberg/Black
+N:Single in DMI
+R:reel
+%Q:1/4=180
+M:C|
+L:1/8
+K:G
+dc|BGG2 dBGA|BGBd egdB|cAA2 ecAB|cdef gedc|
+BGG2 dGG2|BGBd egdB|cdef gedc|BGAF G2 :|
+Bc|dgg2 bgg2|dggf egdB|cAA2 eAA2|cdef gfef|
+dgg2 bgg2|dgfg ecdB|cdef gedc|BGAF G2 :|
+
+%%%
+
+X:21030
+T:CLOVER BLOSSOM (hornpipe), The  
+B:DMI.0869
+Z:Nordberg/Black
+R:hornpipe
+%Q:1/4=150
+M:C|
+L:1/8
+K:A
+g|aece Acea|fdBG A2Bc|defe dcBA|GBAF E2eg|
+aece Acea|fdBG A2Bc|dfed cABG|E2A2A2:|
+ed|ceAe ceAe|dfBf dfBf|ceAe ceAc|BAGF E2ed|
+ceAe ceAc|dcde fgaf|eaed cABG|E2A2A2:|
+
+%%%
+
+X:21031 
+T:COLLEGE GROVE (reel), The 
+B:DMI.0485
+Z:Nordberg/Black
+N:This is another instance where the C's that are played 
+as natural today are not indicated as such in the source. 
+I have taken the liberty of changing this in the setting
+below. (To hear the source version, replace G with D in
+the K: field.)
+R:reel
+%Q:1/4=180
+M:C|
+L:1/8
+K:G
+"D modal"
+D2FD ADFD|Ecc2 edcA|D2FD Eddc|ABGF EDCE|
+D2FD ADFD|Ecc2 edcA|DEFG Addc|ABGE EDD2||
+%
+fed^c Acdf|ed^cd efge|edd^c dcdf|eaag edd2|
+f2df f2df|e2ce e2ce|dfeg fagb|afge fdd2||
+%
+faag fddf|efgf eccg|faag fddB|cAGE EDD2|
+faag fddf|efgf ecce|dfeg fagb|afge fdd2||
+%
+f2df f2df|e2ce e2ce|f2df f2dB|cAGE EDD2|
+f2df dfdf|e2ce cece|dfeg fagb|afge fdHd2|]
+
+
+%%%
+
+X:21032 
+T:COMB YOUR HAIR AND CURL IT 
+B:DMI.0447
+Z:Nordberg/Black
+R:slip jig
+%Q:1/4=150
+M:9/8
+L:1/8
+K:Em
+B2E E2F G2A|B2e e2^c dBA|B2E E2F G2A|B2G A2G FED|
+B2E E2F G2A|B2e e2^c dBA|B2E E2F G2A|BAG A2G FED||
+g2e efe e2f|g2e e2g afd|g2e efe edc|d2B A2G FED|
+g2e efe e2f|gfg e2g afd|gfg agf g2e|d2B ABG FED||
+"final"E6z3|]
+
+%%%
+
+X:21033 
+T:COME TO DINNER 
+B:DMI.0228
+Z:Nordberg/Black
+N:Note mode change between parts!
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:Am
+e|cAA A2A|EAB cBA|BGG G2G|BGB gdB|
+cAA A2B|cde ag^f|gec Bed|cAA A2:|
+K:A
+e|aga bag|aec Ace|dBG EGB|Acf efg|
+aga bag|aec Ace|dBG EGB|cAA A2:|
+
+%%%
+
+X:21034 
+T:COME WEST ALONG THE ROAD (reel)
+B:DMI.0793
+Z:Nordberg/Black
+R:reel
+%Q:1/4=180
+M:C|
+L:1/8
+K:G
+d2BG dGBG|G2Bd efge|d2BG dGBG|ABcd edce|
+d2BG dGBG|G2Bd efge|d2BG dGBG|ABcd edBd||
+g2bg egdg|egdg edBd|g2bg egdB|BABd edBd|
+g2bg egdg|egdg edBd|gabg efge|dega bage||
+"final"Hg4z4|]
+
+%%%
+
+X:21035 
+T:COME WITH ME NOW 
+B:DMI.0312
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+"D modal"
+G|FDD F2d|cAA BAG|AFD F2d|cAF GAG|
+FDD F2d|cAA cde|fge cAG|EDD D2:|
+A|cBA fed|cAA A2B|cBA fed|cAF G2A|
+cBA fed|cAA cde|fge cAG|EDD D2:|
+
+%%%
+
+X:21036 
+T:COOLEEN BRIDGE (reel)
+B:DMI.0780
+Z:Nordberg/Black
+N:This is "The Tarbolton" as a single reel.
+R:reel
+%Q:1/4=180
+M:C
+L:1/8
+K:Em
+F|Eeed e2BA|GBAF GEEF|Dddc d2AF|GBAG FDDF|
+Eeed efga|fedf eBBA|G2BG FGAc|BGAF GEE||
+f|gfef gebe|geba geec|defg a2fd|gefd edBA|
+G2BG F2AF|Eeed e3f|gefd edBc|dBAF GEHE2|]
+
+%%%
+
+X:21037 
+T:CRONIN'S FROLICS 
+B:DMI.0338
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:D
+G|FEF AFD|dcd ecA|fed gec|dcd ecA|
+FEF AFA|dfa ece|fed gec|Add d2:|
+c|ecA efg|afd bge|afd gec|dfd ecA|
+FEF AFA|dfa ecA|faf gec|edd d2:|
+g|afd dgf|ecA Afg|afd Bgf|efd cBA|
+afd dcd|gfg ece|fed gec|edd d2:|
+B|AFD DFA|dcd AFD|AFD DEF|GBG EFG|
+ABA DFA|dfa ece|faf gec|edd d2:|
+
+%%%
+
+X:21038 
+T:CUP OF TEA (reel), The 
+B:DMI.0792
+Z:Nordberg/Black
+N:Sometimes referred to "The Unfortunate Cup of Tea"
+R:reel
+%Q:1/4=180
+M:C|
+L:1/8
+K:D
+A|BAGF GEEF|GEBE GEEA|BAGF GEEG|FDAG FDDA|
+BAGF GEEF|GEBE GEEA|BAGF GABc|dBAG FDD||
+%
+A|d2eg fdec|d2eg fBBc|d2eg fdec|dBAG FDDA|
+d2eg fdec|dfaf g2fg|afge fdec|dBAG FDD||
+%
+G|FAdA FABA|FAdA FEEG|FGdA FABc|dBAG FDDG|
+FAdA FABA|FAdA FEEe|f2ec dBAF|GBAG FDHD2|]
+
+%%%
+
+X:21039 
+T:DAIRY MAID, The  
+B:DMI.0292
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+A/G/|FDD FEF|DGG G2A|BAB GBd|cAG F2A|
+BAB Bcd|cBc ABc|dfd cAF|AGG G2:|
+d|gfe fdc|BGG G2g|fef dfd|cAG F2c|
+BAB Bcd|cBc ABc|dfd cAF|AGG G2:|
+
+%%%
+
+X:21040 
+T:DANCING THE BABY 
+B:DMI.0990
+Z:Nordberg/Black
+R:hornpipe
+%Q:1/4=75
+M:2/4
+L:1/16
+K:D
+F2AA G2AA|F2AA GFE2|F2AA G2AA|D2DE FED2|
+F2AA G2AA|F2AA GFE2|D2DF EEE2|DDD2 DDD2||
+%
+d2FF A2FF|d2FF GFE2|d2FF A2FF|D2DE FED2|
+d2FF A2FF|d2FF GFE2|D2DF EEE2|DDD2 DDD2||
+%
+f2aa g2aa|f2aa gfe2|f2aa gbag|fed2 cAA2|
+f2aa g2aa|f2aa gfe2|d2fd ecA2|ddd2 ddHd2|]
+
+%%%
+
+X:21041 
+T:DELANEY'S DRUMMERS 
+B:DMI.0305
+Z:Nordberg/Black
+N:1:You can replace the first measure of the first 
+ending with |e^fg aba| if the |c'| is a problem.
+N:2:A version of "Clare Jig"/"Paddy in London"
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+"A dorian"
+g/f/|eAA fAA|gfg age|dBG GFG|BAG Bcd|
+eAA FAA|BAB gfe|def gdB|BAA A2:|
+d|efg a2a|baf gfe|def gfg|agf ged|
+[1 efg abc'|baf gfe|def gdB|BAA A2:|
+[2 bag agf|gfe fdB|def gdB|BAA A3|]
+
+%%%
+
+X:21042 
+T:DON'T BE TEASING 
+Z:Nordberg/Black
+B:DMI.350
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:D
+B|AFD DFD|AFA dcB|AFD DFD|EFG Bcd|
+AFD DFD|AFA d2A|B/c/dB ced|d3 d2:|
+g|afd dcd|Bcd AFD|afd dcd|Bcd e2f|
+afd dcd|Bed cBA|Bgf ecA|d3 d2:|
+
+%%%
+
+X:21043 
+T:DOWN THE HILL 
+B:DMI.0995
+Z:Nordberg/Black
+N:1:This tune with its heavy ornamentation (per the "source version"
+below) is found in the "Miscellaneous" section of DMI rather than 
+the "Jigs" section. I thinned it out so that a nice tune wouldn't
+go to waste! 
+N:2:Transposing up from G minor resulted in a few high C's. You can
+play /a/ instead and nobody will know the difference.
+R:jig 
+%Q:1/4=160
+M:6/8
+L:1/8
+K:Am
+"simplified version"
+G|EAA A2B|cBA BAG|AED G2A|BcA GED|
+EAA A2c|BGc dBd|ege dBe|A3 A2:|
+d|eaa a2b|[ac']ba bge|dgg g2a|bag age|
+eaa a2b|[ac']aa bgg|age dBE|A3 A2:|
+d|aec A2c|A2c dcB|gdA G2B|G/2A/2Bc dcB|
+cAA dBB|ea^g ab[ac']|age dBe|A3 A2:|
+
+
+%%vskip
+P:source version
+G/F/|DGG G2A|B/A/G/A/B/G/ A/G/F/G/A/F/|G/F/D/C/D/E/ F2G|\
+ABG FDC|
+DGG G2B|A/G/F/G/A/B/ cAc|d/e/fd cAd|G3 G2:|
+%
+B/c/|dgg g2a|b/a/g/a/b/g/ afd|cff f2g|a/g/f/g/a/f/ gfd|
+dgg g2a|b/a/g/a/b/g/ a/g/f/g/a/f/|gfd cAD|G3 G2:|
+%
+B/c/|gdB G-G/B/d/B/|G-G/B/d/B/ c_BA|fcG F-F/A/c/A/|F/G/AB cBA|
+B/A/G/A/B/G/ c/B/A/B/c/A/|dg^f gab|gfd cAd|G3 G2:|
+
+%%%
+
+X:21044 
+T:DOWN THE RIVER 
+B:DMI.0336
+Z:Nordberg/Black
+N:There might be a case for treating this as a G modal
+tune (= all F's natural), but I have left it as it appears
+in DMI.
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+c|dBG GBd|cAF FAc|Bcd eag|fed cBA|
+dBG GBd|cAF ABc|BdB cAF|AGG G2:|
+B|Ggf gba|gdc BAG|Ggf bag|fef g2A|
+Ggf dfd|cAG FGA|fed cAF|AGG G2:|
+
+%%%
+
+X:21045 
+T:DOWNING'S REEL 
+B:DMI.0591 
+Z:Nordberg/Black
+N:A-B-A in CRE
+R:reel
+%Q:1/4=180
+M:C|
+L:1/8
+K:G
+"A dorian"
+F|G2FG EGDF|G2BG dGBG|G2FG EFDc|Beed BcAB|
+G2FG EFDF|GABc dBAB|G2FG EFDA|Beed B2A :|
+c|BAGA Bcd2|Beed Bcd2|BAGA Bcd2|Beed B2A2|
+BAGA Bcd2|Beed Bcd2|G2GB A2Ac|Beed B2A :|
+
+%%%
+
+X:21046 
+T:DROGHEDA WEAVERS, The 
+B:DMI.0361
+Z:Nordberg/Black
+N:1:This tune is in the "Miscellaneous" section of DMI.
+N:2:I thinned out the 16th note runs [/D/E/F/G/A/B/] at 
+the beginning of mm 9 and 13 and added the 2nd ending 
+on part 2.
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:D
+D|AFD DFD|AFD G2E|AFD DFG|AFD E2d|
+AFD DFD|AFD G2E|DFA B2d|AFD E2:|
+d|DFB/ c3|B3 A2D|DFA d2B|AFD E2D|
+DFB c3|B3 A2B|ABc d2B|1 AFD E2:|\
+[2 AFE D3|]
+
+%%%
+
+X:21047 
+T:DROPS OF BRANDY 
+B:DMI.0448
+Z:Nordberg/Black
+R:slip jig
+%Q:1/4=150
+M:9/8
+L:1/8
+K:G
+ded BGB BGB|ded BGB c2A|
+ded BGB BGB|cBc AFA c2A|
+ded BGB BGB|ded BGB cBA|
+ded Bcd gdB|cBc AFA cBA||
+%
+GBd gdB gdB|GBd gdB c2A|
+GBd gdB gdB|cBc AFA c2A|
+GBd gdB gdB|GBd gdB cBA|
+GBd gba gdB|cBc AFA cBA||\
+"final" HG6z3|]
+
+%%%
+
+X:21048
+T:DRUNKEN SAILOR (hornpipe), The 
+B:DMI.0948
+Z:Nordberg/Black
+N:If the /aeac'/ in mm 33 and 35 pose problems, play
+/aea2/ instead. 
+R:hornpipe
+%Q:1/4=150
+M:C|
+L:1/8
+K:G
+"A dorian" 
+(3EF^G|A3B ABcd|edcB AGEF|G3A GABc|dBGB edcB|
+A2A^G ABcd|edcB AGEF|G2g2 edcB|c2A2A2:|
+AB|c3d cdef|gdBc dBGc|BGdG eGdG|BGdB edcB|
+c2cB cdef|gdBc dBGB|A2ag edcB|c2A2A2:|
+ce|a3b a2^ga|bagf e3f|gdad bdad|gdad bagf|
+e2a2 a2^ga|bagf e2d2|egfa gedB|c2A2A2:|
+EG|Acec Acec|GBdB GBdB|Acec Acec|dcBA GABG|
+Acec Acec|GBdB GABd|egfa gedB|c2A2A2:|
+ce|aeac' aeac'|gdgb gdgb|aeac' aeac'|gedB ecdB|
+cAce BGBd|cBce dcdf|egfa gedB|c2A2A2:|
+
+%%%
+
+X:21049 
+T:DUSTY MILLER, The 
+B:DMI.0455
+Z:Nordberg/Black
+R:slip jig
+%Q:1/4=150
+M:9/8
+L:1/8
+K:G
+B2d d2A B2G|E2A A2B c2A|B2e d2A BAG|D2G G2A B2A|
+B2d d2A B2G|E2A A2B c2A|B2d d2A BAG|D2G G2A B2G|]
+B2d e2f g3|a2A A2B c2A|B2d e2f g2a|g2e d2c B2G|
+B2d e2f g3|a2A A2B c2A|Bcd e2f g2a|gfe d2c B2G|]
+
+%%%
+
+X:21050 
+T:EDENDERRY REEL, The 
+B:DMI.0770
+Z:Nordberg/Black
+R:reel
+%Q:1/4=180
+M:C|
+L:1/8
+K:G
+B2AG BGGA|B2AG Bdgd|B2AG BGGB|AGBG AGEG:|
+gfga gede|gabg agab|gfga gedB|A2BG AGEG|
+gfga gede|gabg a2ga|bgaf gedB|A2BG AGEG|]
+
+%%%
+
+X:21051 
+T:ERIN'S HOPE (reel) 
+B:DMI.0651 % A-B-A
+Z:Nordberg/Black
+R:reel
+%Q:1/4=180
+M:C|
+L:1/8
+K:G
+dc|B2AG BdAG|FADA FADc|1 B2AG BdAG|FDEF GB:|\
+[2 B2AG gedc|BdAF G2||
+f2|:g2gd BGBd|gfeg fgaf|1 g2gd BdAG|FADA FADF:|\
+[2 abaf gedc|BdAG FAdc|]
+"repeat mm 1 - 3 then |FDEF HG4|"
+
+%%%
+
+X:21052
+T:FAIRY DANCE (reel), The 
+B:DMI.0986
+Z:Nordberg/Black
+H:Possibly by Scots composer Nathaniel Gow
+N:aka "Fairy Reel". There's an Irish version of this 
+called "An Bualteoir Aerach/Meidhreach" ("The Merry 
+Thresher"). DMI has this tune in A but I have transposed
+it down a step.
+R:reel
+%Q:1/4=180
+M:C
+L:1/8
+K:G % source key = A
+dc|B2BG B2BG|cBAG FGAc|BABd cBAG|FDEF G2:|
+Bc|d2dB e2ed|cBce d2dc|BABd cBAG|FDEF GABc|
+dedB efed|cBce d2c2|BABd cBAG|FDEF G4|]
+
+%%%
+
+X:21053 
+T:FAIRY JIG, The 
+B:DMI.0319
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+e|dBA BGA|GBd g2a|bgd dBG|FAA A2e|
+dBA BGA|GBd gab|age dBA|BGG G2:|
+d|edd deg|baa aga|bge dBG|FAA A2d|
+edd deg|baa aga|bge dBA|BGG G2:|
+
+%%%
+
+X:21054 
+T:FAREWELL TO IRELAND (reel)
+B:DMI.0805
+Z:Nordberg/Black
+N:As you probably know, this tune is played today with 
+a 4th part (per the Bothy Band arrangement) which involves
+a key (or, more accurately, mode) change to A mix. I have
+added my version of it to the 'simplified' setting. 
+R:reel
+%Q:1/4=180
+M:C|
+L:1/8
+K:G
+"A dorian"
+P:simplified version
+B,|A,3B, EDEF|GEDB, G,B,DB,|A,G,A,C D2AF|GEDB, EA,A,2|
+A,G,A,C E2EF|GEDB, DG,G,g|edeg abaf|gedf eAA||
+P:2
+g|a2ab agef|gage dBGg|agab aged|gedB A2Ag|
+agef g2fe|dedB GABd|cAdB ecAa|gedB BAA||
+P:3
+d|eAA2 edce|dGG2 BGBd|eAcd edBa|gedB ABcd|
+eAA2 edce|dedB GABd|cAdB ecAa|gedB BAA2|]
+P:4 (not included in DMI)
+K:D
+"A mix"
+aece aece|g2gf gdBd|aece aece|gfgd BAA2|
+agef gfge|dBB2 GBB2|ABcd eaaf|gfgd BAA2||
+
+%%vskip
+P:Source version
+B,|A,3B, EDEF|GEDB, G,B,DB,|A,G, (3A,B,C D2 AF|GEDB, EA,-A,2|
+A,G,A,C E2EF|GEDB, DG,G,g|ed (3efg abaf|(3gfe df eAA||
+P:2
+g|a2ab agef|ga (3gfe dBGg|agab aged|gedB (3AAA Ag|
+agef g2fe|dedB GABd|cA (3dcB ecAa|gedB BAA||
+P:3
+d|eA (3AAA edce|dG (3GGG BGBd|eAcd edBa|(3gfe dB ABcd|
+eA (3AAA edce|dedB GABd|cA (3dcB ecAa|(3gfe dB BAA|]
+%
+
+
+%%%
+
+X:21055 
+T:FIDDLERS' CONTEST (hornpipe), The 
+B:DMI.0901
+Z:Nordberg/Black
+R:hornpipe
+%Q:1/4=150
+M:C|
+L:1/8
+K:A
+cd|edef ecAc|defg agaf|eagf ecAc|BABc B2cd|
+edef ecAc|defg agaf|eagf edcB|A2a2A2:|
+AF|EAAB cAea|FBBc dBfB|defg agaf|edcB AEFG|
+EAAB cAec|BABc defg|agaf edcB|A2a2A2:|
+
+%%%
+
+X:21056 
+T:FLOWERS OF DUNGARVAN, The 
+B:DMI.0348
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:D
+G|AFD DdB|AdF FED|Bcd ged|cAA A2B|
+ABG FED|BdB ABc|dfa gfe|fdd d2:|
+e|fed afd|edc Bcd|AFA Daf|gfg e2a|
+fed ecA|dAG FGA|Bcd eag|fdd d2:|
+
+%%%
+
+X:21057 
+T:FLOWERS OF LIMERICK (reel), The
+B:DMI.0768
+Z:Nordberg/Black
+N:1:DMI shows no F naturals, so the modal version played today 
+is evidently an innovation from after the Chief's day. (Current 
+version only has two parts, not the four in the source.) 
+N:2:In the following file, MM 1 - 32 are the Chief's G-major 
+setting and mm 33 - 48 are the G modal version.
+N:2:This tune has many other names, e.g. "Yellow Tinker," 
+"Paddy on the Railway," etc etc
+R:reel
+%Q:1/4=180
+M:C|
+L:1/8
+K:G
+GF|DGGF G2GA|BGcA BGAF|DFFE F2FG|AGAc BGFE|
+DGGF G2GA|BAGA Bcde|fefd cAFA|BGAF G2||
+GA|Gggf g2ga|bgga bgaf|d^cde fefg|abag fdcA|
+dggf g3d|BAGA Bcde|fefd cAFA|BGAF G2||
+GF|DGGA BAGB|dcBd cBAG|FGAB cAFA|cBcA BGAF|
+GFGA BABd|cBAB cdeg|fefd cAFA|BGAF G2||
+df|gddf gbag|fede fgaf|eccd efge|dcBA GcBA|
+G2GA BcBd|cBAB cdeg|fefd cAFA|BGAF HG4|]
+%%vskip
+P:as G modal in two parts (with repeats)
+K:C
+GE|"33"DGGF G2GA|BGcA BGAF|DFFE F2FG|AGAc BGFE|
+"37"DGGF G2GA|BAGA Bcde|fefd cAFA|BGAF G2:|
+GA|"41"Gggf g2ga|bgga bgaf|d^cde fefg|abag fdcA|
+"45"dggf g3d|BAGA Bcde|fefd cAFA|BGAF G2:|
+
+%%%
+
+X:21058 
+T:GO TO THE DEVIL AND SHAKE YOURSELF 
+T:When Sick Is It Tea You Want?
+B:DMI.0358
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:D
+Add dcB|ABA AFA|Add d2e|fec B2A|
+Add dcB|ABA AFA|dfd ege|fdd d3:|
+afd dcd|BGG G2g|bge ede|cAA A2A|
+Add dcB|ABA AFA|dfd ege|fdd d3:|
+
+%%%
+
+X:21059 
+T:FOLLOW ME DOWN (reel)
+B:DMI.0547
+Z:Nordberg/Black
+R:reel
+%Q:1/4=180
+M:C|
+L:1/8
+K:G
+"A dorian"
+AGAG EFGB|A^GAB cded|cBcA EFGa|1 gedB cAdc:|\
+[2 gedB cAA2||
+edc2 ecgc|BGdG BGdG|ecc2 egfa|gedB cAA2|
+agea gedB|cBcG EFGB|A^GAB ceaf|gedB cAA2|]
+
+%%%
+
+X:21060 
+T:FOOT OF THE MOUNTAIN, The 
+B:DMI.0331
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+G/A/|B3 BAG|Add dAA|B3 BAG|FAA AFD|
+B3 BAG|Add dcA|DGG cAF|AGG G2:|
+D|DGG FDD|DGG FDD|DGG AGF|cAG AFD|
+DGG FDD|DGG FDD|DGG cAF|AGG G2:|
+
+%%%
+
+X:21061 
+T:FOX HUNTERS' JIG, The 
+B:DMI.0422
+Z:Nordberg/Black
+R:slip jig
+%Q:1/4=150
+M:9/8
+L:1/8
+K:D
+FGF F2D G2E|FGF F2D E2D|FGF F2D G2B|AFD D2F E2D:|
+BcB BAG FGA|B2E E2F G2B|ABc dcB ABc|d2D D2F E2D:|
+fgf f2d g2e|fgf f2d e2d|fgf f2d g2b|afd d2f e2d:|
+gfe dcB AGF|B2E E2F G2B|ABc dcB ABc|d2D D2F E2D:|
+
+%%%
+
+X:21062 
+T:FRIEND OF MY HEART 
+B:DMI.0335
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+"A dorian" % source key = Gm
+d|cBA GED|EFG A2d|ege ded|cBA GAB|
+cBA GED|GEF GAB|ege dBG|BAA A2:|
+E|Ace aga|efd cBA|GBd gfg|dec BAG|
+Ace a2b|c'ba gab|efg aed|cAA A2:|
+
+%%%
+
+X:21063 
+T:FULL MOON, The 
+B:DMI.0322
+Z:Nordberg/Black
+N:Another one of many DMI tunes that might sound better
+as a modal tune (= C's natural). I'll leave the ABC as
+per the DMI version, but you can try the modal version
+by replacing D with G in the K: field.
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:D
+g|fed cAA|fed cBA|FGA ABG|FGA A2g|
+fed cAA|fed cAG|FDF GAG|FDC D2:|
+G|FGA ABc|dfd cAG|cAA A2G|cAA A2g|
+fed cAA|fed cAG|FDF GAG|FDC D2:|
+
+%%%
+
+X:21064 
+T:GAELIC REVIVAL (reel), The 
+B:DMI.0784
+Z:Nordberg/Black
+R:reel
+%Q:1/4=180
+M:C|
+L:1/8
+K:A
+c|dFE2 DFAF|dFF2 AFDc|BAGF EFGA|BABc dfec|
+dFF2 AFF2|DFAc dcde|fedc BcdB|AFdF FEE||
+%
+d|cAeA EAcA|cBce fedc|dBfB GABc|dcdf gfed|
+cAEA cAeA|cBce fefg|agfe fedc|dfed cAA||
+%
+d|cBAc BAFA|dFF2 AFDd|cBAc BAFA|BEEF GABd|
+cBAc BAFA|DFAB ABde|fedc BcdB|AFdF FEE||
+%
+d|cAEA eAce|fgaf edce|dBGB fBde|fefg afed|
+cAGA eAGA|fAaA cdea|fede fgaf|ecdB cAA2|]
+
+%%%
+
+X:21065 
+T:GALLOPING YOUNG THING, The  
+B:DMI.0309
+Z:Nordberg/Black
+N:Accented c's suggest that this might be better as a modal tune. 
+To hear the DMI setting, replace G with D in the K: field.
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+"D mix"
+G|FDD cAc|ded cAG|FDD cAF|GFG BAG|
+FDD cAc|ded cde|fed cAF|GFE D2:|
+e|fgf efe|ded cde|fgf efd|cAA A2e|
+fgf efe|ded cde|fed cAF|GFE D2:|
+
+%%%
+
+X:21066 
+T:GALTEE MOUNTAIN (hornpipe), The 
+B:DMI.0950
+Z:Nordberg/Black
+R:hornpipe
+%Q:1/4=150
+L:1/8
+M:C|
+K:Em
+"simplified version"
+DF|GFGA BAGB|AEEF EGFE|DEFG ABAG|FDdF DFAF|
+EDEF GFGA|BABd gefd|edBc dBAF|G2E2E2:|
+GA|BGBd edef|gbaf gedB|cBAB cdef|geaf g2Bd|
+gdBd ecAG|FDFA BGBd|edBc dBAF|G2E2E2:|
+
+%%%
+
+X:21067 
+T:GLENGARIFF HORNPIPE, The  
+B:DMI.0851
+Z:Nordberg/Black
+R:hornpipe
+%Q:1/4=150
+M:C|
+L:1/8 % 1/16 in source
+K:G
+DF|G2D2 G2D2|GABG AGFD|BGBd cBAG|E2A2 AcBA|
+G2D2 G2D2|GABG AFDc|BABc dBAB|G2GF G2:|
+dc|BGBd gfga|bagf gfed|efgf edcB|cBAG FAdF|
+G2D2 G2D2|GABG AFDc|BABc dBAB|G2GF G2:|
+
+%%%
+
+X:21068 
+T:GOOD NIGHT JIG, The 
+B:DMI.0405
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+G2E G2E|G2A BGE|G2E G2E|FAd AFD|
+G2E G2E|G2A B2c|ded BAG|FAd AFD:|
+gdc B2A|G2A BGE|gdc BAG|FAd AFD|
+gdc B2A|G2A B2c|ded BAG|FAd AFD:|
+
+%%%
+
+X:21069 
+T:GREEN BANNER (hornpipe), The 
+B:DMI.0872
+Z:Nordberg/Black
+R:hornpipe
+N:Dotted rhythm removed
+%Q:1/4=150
+M:C|
+L:1/8
+K:G
+FE|DGBG dGBG|efge dBAB|GFGA BABG|ABAF GFEF|
+DGBG dGBG|efge dBAB|GBdg ecAF|G2G2G2:|
+ef|gbeg dgBe|dBge dBAB|GBdB edcB|AGAB A2DC|
+B,DGB d2cB|ABcd e2ge|dBGB AGFA|G2G2G2:|
+
+%%%
+
+X:21070 
+T:GREEN GATES (reel), The
+B:DMI.0764
+Z:Nordberg/Black
+N:Repeats not in DMI.
+R:reel
+%Q:1/4=180
+M:C|
+L:1/8
+K:G
+D|GBdg egdB|GBdg egdg|eAcA eAcA|cdef gedB|
+GBdg egdB|GBdg egdB|cdef gedc|BGAF G3:|
+B|dgg2 bgg2|dgfg egdf|eAcA eAcA|cdef gedB|
+dgg2 bgg2|dgfg e2dB|cdef gedc|BGAF G3 :|
+
+%%%
+
+X:21071 
+T:HAWTHORN, The 
+B:DMI.0435
+Z:Nordberg/Black
+R:slip jig
+%Q:1/4=150
+M:9/8
+L:1/8
+K:G
+dBG GBG AGE|dBG GBd efg|dBG G2B AGE|gbg faf e2g:|
+def gfg edB|def gfg a2B/c/|def gfg edB|gbg faf edB|
+def gfg edB|def gfg a2g/a/|bag agf gfe|dBG GBd efg|]
+
+%%%
+
+X:21072 
+T:HUISH THE CAT 
+B:DMI.0382
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:Am
+E/F/|GAG c2e|d2A c2e|GAG c2d|ecA A2c|
+GAG c2e|d2A c2e|gfe f2d|ecA A2:|
+d|gfe f2d|edc f2d|gfe f2d|ecA A2G|
+gfe f2d|edc f2d|G>AG f2d|ecA A2:|
+
+%%%
+
+X:21073 
+T:HUMORS OF AYLE HOUSE, The 
+B:DMI.0261
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+G|FDF E2d|cAA A2G|FDE F2d|cAF GAG|
+FDE F2d|cAB cde|fef dfd|cAF G2:|
+B|cAA fed|cAG A2B|cAA fed|cAF G2B|
+cAA fed|cAB cde|fed dfd|cAF G2:|
+
+%%%
+
+X:221074 
+T:HUMORS OF BALLINLASS (hornpipe), The 
+B:DMI.0942
+Z:Nordberg/Black
+R:hornpipe
+%Q:1/4=150
+M:C|
+L:1/8
+K:G
+GE|D2EF G2G2|c3A BAGB|cBcd e2dB|cABG EAGE|
+D2EF G2B2|c2cA Bdgd|B2GB cAFA|G2GF G2:|
+ef|gfed e2ef|gede d3B|cBcd e2dB|1 cABG E2 ef|
+gfed eddf|gede d2c2|B2GB cAFA|G2GF G2:|
+[2 cABG EAGE|D2EF G2B2|c2cA Bdgd|B2GB A2FA|\
+G2GFG4|]
+
+%%%
+
+X:21075 
+T:HUMORS OF CASTLEOLIVER, The 
+B:DMI.0401
+Z:Nordberg/Black
+N:To hear DMI version, replace G with D in the K: field.
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+"D modal"
+ABc d3|edc d2A|ABc d2e|fed cAG|
+F/G/AB c3|AdB c2A|G2A c2A|dcA GED:|
+A/B/AG F2D|DED F2D|DDD G2A|BAG ABc|
+d/c/AG F2D|DED F2D|DDD G2A|1BAG AFD:|\
+[2 Bcd AFD|]
+
+%%%
+
+X:21076 
+T:HEATHER BREEZE (reel), The
+B:DMI.0779
+Z:Nordberg/Black
+N:I've never heard anyone play the third part.
+R:reel
+%Q:1/4=180
+M:C
+L:1/8
+K:G
+F|DGBG dGBG|DFAF cFAF|DGBG dGBG|BdcA BGGF|
+DGBG dGBG|DFAF cFAF|GABc d2ge|fdcA BGG||
+%
+f|g2gf gbag|f2fe fgaf|g2gf gbag|fdcA BGGf|
+g2gf gbag|f2fe fgaf|gfga b2ag|fdcA BGG||
+%
+g|bgdg bagb|afdf agfa|bgdg bgag|fdcA BGGg|
+bgdg bgdg|afdf agfa|bgaf gedB|cedc BGG|]
+
+
+%%%
+
+X:21077 
+T:HEATHER GLEN (hornpipe), The 
+B:DMI.0819
+Z:Nordberg/Black
+R:hornpipe
+%Q:1/4=150
+M:C|
+L:1/8
+K:D
+AG|FEFG A2GA|BABc dcde|fdec dBAF|B2E2 E2AG|
+FEFG A2GA|BABc dcde|fdec dBAG|F2D2 D2:|
+g2|fefg afdf|ecA2 A2dc|BABc dfed|c2A2 ABAG|
+FGAB A2GA|BABc dcde|fdec dBAG|F2D2 D2:|
+
+%%%
+
+X:21078 
+T:HENNESSY'S HORNPIPE 
+B:DMI.0813
+Z:Nordberg/Black
+R:hornpipe
+%Q:1/4=150
+M:C|
+L:1/8
+K:G
+D2|GABc dBGB|g2fg edBA|GABc dedc|BGAF GFED|
+GABc dBGB|g2fg edBA|dedc BGAF|G2GF G2:|
+Bc|d^cde gBB2|g2ag fdef|gfed eBB2|e2d^c d2ef|
+gedc BAGB|ABAG FGAB|dedc BGAF|G2GF G2:|
+
+%%%
+
+X:21079 
+T:HIBERNIAN JIG, The 
+B:DMI.0357
+Z:Nordberg/Black
+N:Cut time removed. Note alternates to / DB,D / in
+first two measures.
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:Em
+D|D[EB,]D D[EB,]D|D[EB,]D D2G|EGE EDE|GAB B2A|
+ABd ege|dBA GAB|Bed BAB|GED E2:|
+d|ded dBd|ege e2d|dBd edc|B2A G2d|
+ged edB|dBA B2G|ABd ede|GEE E2:|
+
+%%%
+
+X:21080 
+T:HIGHWAY TO KILKENNY, The 
+B:DMI.0451
+Z:Nordberg/Black
+R:slip jig
+%Q:1/4=150
+M:9/8
+L:1/8
+K:Em
+G2g gfg dBG|A2B c2d ecA|
+G2g gfg dBG|1 ege faf gdB:|\
+[2 AcA BGE E23||
+e2f g2e fdB|e2f g2a bge|
+[1 gbg faf ege|BdB AcA BGE:|
+[2 faf gbf dBG|AcA BGE E3|]
+
+%%%
+
+X:21081 
+T:HILLSIDE COTTAGE (hornpipe), The 
+B:DMI.0818
+Z:Nordberg/Black
+R:hornpipe
+%Q:1/4=75
+M:2/4
+L:1/16
+K:G
+D|G3B AGED|GBdg e3f|gfge dBAc|BGAF GFED|
+G3B AGED|GBdg e3f|gfge dBge|dBAB G3:|
+z|g2dg edgd|eaab agef|g2dg edgd|egfa g2ga|
+bagb agfa|gage d2ef|gfge dBge|dBAB G3:|
+
+%%%
+
+X:21082 
+T:HOLLYFORD JIG, The 
+B:DMI.0362
+Z:Nordberg/Black
+N:Another tune of ambiguous modality. The number of 
+accented c's leads me to suspect it should be considered 
+D modal. If you want to hear the DMI version, replace G 
+with D in the K: field.
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+"D modal"
+F3 AGF|ABA GED|EGE c2A|dfd cAG|
+FEF AGF|ABA GED|DED dAG|FEF GED:|
+%
+c3 cAc|dcA GED|EGE c2A|dfd cAB|
+ced cAc|dcA GED|DED dAG|FAF GED:|
+%
+dFF [AA,]FF|[AA,]FA GED|EGE cde|fed efg|
+"21"faf gbg|fdB AGF|EFE dAG|FEF GED:|
+
+
+%%%
+
+X:21083 
+T:HONEYMOON REEL, The 
+B:DMI.0791
+Z:Nordberg/Black
+R:reel
+%Q:1/4=180
+M:C|
+L:1/8
+K:G
+dc|BGAF DGG2|Bd ef gedc|BGG2 DGG2|BedB A2dc|
+BGAF DGG2|Bdef g3a|bgaf gfed|egdB A2||
+Bd|e2ef edBA|Bd ef gedc|BGG2 DGG2|BedB A2Bd|
+edef edBA|Bd ef g3a|bgaf gfed|egdB A2|]
+
+%%%
+
+X:21084 
+T:HORSE AND JOCKEY (hornpipe), The 
+B:DMI.0941
+Z:Nordberg/Black
+R:hornpipe
+%Q:1/4=150
+M:C|
+L:1/8
+K:G
+"A modal"
+ed|cABG A2ed|cBcA g2fe|dega egdc|B2G2 G2ed|
+cABG EFGB|cBcA a2ag|edce gedB|c2A2A2:|
+fg|agab aged|cdeg bage|dBGB cedc|B2G2 G2eg|
+aged gedc|dedB GABd|cBcd edcB|c2A2A2:|
+
+%%%
+
+X:21085 
+T:HOW THE MONEY GOES (reel)
+B:DMI.0620
+Z:Nordberg/Black
+R:reel
+%Q:1/4=180
+M:C
+L:1/8
+K:G
+G2Bd gdBd|cBAc BGEF|G2Bd gdBd|ecAF GFED|
+G2Bd gdBd|cBAc BGEF|G2Bd gdBd|ecAF G2||
+ef|gbef gedf|gbef g2ef|gbef gedc|BGAF G2ef|
+gbef gedf|gbef g2ga|bgaf gfed|egfa g4|]
+
+%%%
+
+X:21086 
+T:HUMORS OF CLARE, The 
+B:DMI.0329
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+"D modal"
+D3 FDF|ECE G2E|D>ED F2G|ABc BGE|
+D3 FDF|ECE G2E|AGE c2A|1 GEC CDE:|\
+[2 GEC EFG||
+%
+A2G FEF|DEF G2E|A2G FEF|ABc BGE|
+A2G FEF|DEFG2E|AGE c2A|1 GEC CDE:|\
+[2 GEC EFG||
+%
+dAG FDF|ECE G2E|dAG F2G|ABc BGE|
+dAG FDF|ECE G2E|AGE c2A|1 GEC CDE:|\
+[2 GEC EFG|"final"HD3z3|]
+
+%%%
+
+X:21087 
+T:HUMORS OF GLENDART, The 
+T:East at Glendart
+B:DMI.0019
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:D
+A|BAF ADD|FEF DFA|BAF ADD|FEE EFA|
+BAF ADD|FEF DFA|dcB AFE|FDD D2:|
+A|def d2B|ABA AFD|def d2f|ede fdB|
+def edB|AFA ABc|dcB AFE|FDD D2:|
+
+%%%
+
+X:21088 
+T:HUMORS OF KILKENNY, The 
+B:DMI.0992
+Z:Nordberg/Black
+R:jig 
+N:In "Miscellaneous" section of DMI.
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+c|BGG G2B|ded d2c|BGG GBd|e3g3|
+GBd gfe|edc cBA|BGE EDE|c3 ed:|
+z|BGE EDE|GED D2c|BGE EDE|c3 edc|
+BGE EDE|GED D2c|BAG AGF|G3 G2:|
+
+%%%
+
+X:21089 
+T:HUMORS OF SCARIFF (reel), The
+T:"Andy McGann's #2"
+B:DMI.0776
+Z:Nordberg/Black
+R:reel
+%Q:1/4=180
+M:C
+L:1/8
+K:Dm
+Adde f2ed|cAGc AcGc|Adde f2ed|cAGE EDD2:|
+ecgc acgc|ecgc eaa2|ecgc acec|edcd edd2|
+ecgc acgc|ecgc eaa2|ea2a ged^B|cAGE EDD2|]
+
+%%%
+
+X:21090 
+T:HURLING BOYS, The 
+B:DMI.0963
+Z:Nordberg/Black
+R:jig
+N:In Set Dance section of DMI. Note 10 measures (repeated) 
+in part 2.
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+d|G2F G2B|d2B G2B|c2A AGA|B2G DEF|
+G2F G2B|d2B G2g|fed AB^c|d3d2:|
+f|e2d e2f|g2d B2G|d2B Gce|d2B G2g|
+edc BcA|G2F E2D|E2E EFG|D2D D2g|edc BcA|
+G3 G2D|EEE EFG|D2D D2g|edc BcA|G3 G2:|
+
+%%%
+
+X:21091 
+T:HURRY THE JUG   
+B:DMI.0971
+Z:Nordberg/Black
+N:In "Set Dance" section of DMI.
+R:jig 
+%Q:1/4=160
+M:6/8
+L:1/8
+K:Em
+D|EFE G2A|BGE FEF|DED F2G|AdB AFD|
+EFE G2A|BGE FGA|BdB AdF|EGF E2:|
+B|AFA d2d|^cec d2A|AFA d2A|BAG FED|
+[1 E2e e2f|g2e f2d|B2e e2f|gfe fd:|
+[2 EFE G2A|BGE FGA|BdB AdF|EGF HE3|]
+
+%%%
+
+X:21092 
+T:I HAVE A WIFE OF MY OWN 
+B:DMI.0450
+Z:Nordberg/Black
+R:slip jig
+%Q:1/4=150
+M:9/8
+L:1/8
+K:G
+EFE G2A B3|E2F G2B AFD|EFE G2A Bcd|DFA dcB AFD|
+EFE G2A B3|EFE G2B AFD|EFE G2A Bcd|DFA dcB AFD||
+gag fgf e3|EFE G2A BGE|gbg faf d3|DFA dcB AFD|
+gag fgf e3|EFE G2A BGE|gbg afd g3|DFA dcB AFD|]
+
+%%%
+
+X:21093 
+T:I'M A SILLY OLD MAN  
+B:DMI.0404
+Z:Nordberg/Black
+N:As Nordberg points out, this tune bears more than a passing 
+resemblance to "Green Sleeves"!
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G % source key = Gm
+"A dorian"
+B|c2c cde|d2B B2d|c2A ABc|BGE E2B|
+c2c cde|d2B B2d|c2A BA^G|A3 A2:|
+f|g2e ef^g|a2e d2B|A2a a^ga|bge e2f|
+gab agf|gfe d2B|A2c BA^G|A3 A2:|
+
+%%%
+
+X:21094 
+T:I'M THE BOY FOR BEWITCHING THEM 
+B:DMI.0432
+Z:Nordberg/Black
+R:slip jig % A-B-A
+%Q:1/4=150
+M:9/8
+L:1/8
+K:G
+B|GAG Gge dBG|ABA ABd e2g|
+GAG gfe dBG|ABc BAB E2:|
+d|gdg gag fed|efe efg a2b|
+gdg gag fed|gfe dcB A2d|
+gdg gag fed|efe efg aga|
+bgb afa gfe|def gdB HA3|]
+
+%%%
+
+X:21095 
+T:IRISHWOMAN, The 
+B:DMI.0317
+Z:Nordberg/Black
+N:Also (and more widely) known as "Irish Washerwoman". Is the
+new title evidence of the Chief's "political correctness"?
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+c|BGG DGG|BGB dcB|cAA FAA|cAc edc|
+BGG DGG|BGB dcB|cBc Adc|BGG G2:|
+g|gdg gdg|gdg bag|fdf fdf|fdf agf|
+egg dgg|cgg Bgg|cAc Adc|BGG G2:|
+
+%%%
+
+X:21096 
+T:IS THE BIG MAN WITHIN?  
+B:DMI.0965
+Z:Nordberg/Black
+N:A nice "hybrid" tune from the "Set Dance" section of DMI.
+R:jig 
+%Q:1/4=150
+M:9/8
+L:1/8
+K:D
+G|FDF G2E E2G|FDF A2D D2E|
+FDF G2E E2c|dcB A2D D2:|
+M:6/8
+G|F2A ABc|ded cBA|BcB AGF|B2E E2G|
+F2A ABc|ded cBA|BcB BAF|A2D D2:|
+
+%%%
+
+X:21098 
+T:JACKY LATIN (REEL)
+B:DMI.0537
+Z:Nordberg/Black
+N:This tune appears in many of the late 18th - 
+early 19th Century collections. Must have been a
+big hit back in the day.
+R:reel
+%Q:1/4=180
+M:C
+L:1/8
+K:D
+Ac|dAFA DAFA|dFAG A2 Ac|dAFA DAFA|GFEF G2 Ac|
+dAFA DAFA|dAFG A2 Ac|dBcA BGAF|GFEF G2||
+AF|DFAc BGAF|DFAB A2AF|DFAc BGAF|GFEF G2FE|
+DFAc BGAF|DFAB A2 Ac|dBcA BGAF|GFEF G2||
+AG|FD AD BDAD|FD AB A2AG|FD AD BDAD|GFEF G2AG|
+FD AD BDAD|FD AB A2 Ac|dBcA BGAF|GFEF G4|]
+
+%%%
+
+X:21097 
+T:JACK-OF-ALL-TRADES, The 
+B:DMI.0166
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:A
+E|ABA Ace|a2A A2B|cde dcB|ABA GFE|
+ABA Ace|a2A A2B|cde dcB|cAA A2:|
+E|A3 cBA|cee e2e|a3 f2b|gee e2e|
+fga ecA|GBE cde|fga c2B|cAA A2:|
+
+%%%
+
+X:21099
+T:JOE CANT'S REEL 
+B:DMI.0568
+Z:Nordberg/Black
+N:Modality ambiguous in source but I'm going with
+A mixo on basis of fact that Joe Cant was a war 
+piper who wouldn't have been able to play in A
+minor or major on the war pipes.
+R:reel % A-B-A
+%Q:1/4=180
+M:C|
+L:1/8
+K:D
+"A modal"
+ABcA e2dB|G2BG dGBG|ABcA e2dB|cABG EAA2:|
+Aa2g e2ed|cdef g2fe|Aa2g e2ed|cABG EAA2|
+Aa2g e2ed|cdef g2fe|agfe gfed|edef g2ea|]
+"repeat mm 1 - 4 once"
+
+%%%
+
+X:21100
+T:JOHNNY ALLEN'S REEL 
+B:DMI.0774
+Z:Nordberg/Black
+R:reel
+%Q:1/4=180
+M:C|
+L:1/8
+K:G
+"D modal"
+FG|AcBG AGFG|Addc d2FG|AcBG AGFD|AGGF G2FG|
+AcBG AGFA|d2ef g2fg|afge dfec|dcAF G2||
+AB|cBAg fde^c|dcAB c2AB|cBAg fde^c|dcAF G2AB|
+cBAg fde^c|d2ef g2fg|afge dfec|dcAF G2|]
+
+%%%
+
+X:21101 
+T:KERRY JIG, The 
+B:DMI.0991
+Z:Nordberg/Black
+N:From the "Set Dance" section of DMI.
+R:jig 
+%Q:1/4=140
+M:6/8
+L:1/8
+K:C
+B|A2A AGE|A2A AGE|G2E c2E|G3 E2G|
+A2A ABc|BAB G2B|ABc dcB|c3 c2:|
+d|e2e edc|e3 g2G|A2G c2E|G3 E2G|
+A2A ABc|BAB G2B|ABc dcB|c3 c2:|
+
+%%%
+
+X:21102 
+T:KILKENNY HORNPIPE, The 
+B:DMI.0835
+Z:Nordberg/Black
+R:hornpipe
+N:DMI dotted rhythm removed
+%Q:1/4=150
+M:C|
+L:1/8
+K:G
+dc|B2AB GAGE|D2G2 G2Bc|dBge dBGB|dcBc A2dc|
+B2AB GAGE|D2G2 G2Bc|d2ge dcBA|G4-G2:|
+de|fefg f2de|fefg f2AB|cBcd c2AB|cBcd cedc|
+B2AB GAGE|D2G2 G2Bc|d2ge dcBA|G4-G2:|
+
+%%%
+
+X:21103 
+T:KING OF THE CLANS (reel), The
+B:DMI.0835
+Z:Nordberg/Black
+N:No repeats in source.
+R:reel
+%Q:1/4=180
+M:C|
+L:1/8
+K:G
+B|d2GA Bdge|dedB AGEG|DGBG dGBG|cege dcBc|
+dGBd gdBd|gdbg agef|gage dBge|dBAc BGG:|
+f|g2bg egdf|gdBG AGEG|DGBG dGBG|cege dcBd|
+g2bg edge|dBGB AGEG|DGBd gede|dBAc BGG:|
+
+%%%
+
+X:21104 
+T:KING OF THE FAIRIES, The 
+B:DMI.0979
+Z:Nordberg/Black
+R:hornpipe % set dance 2/4
+%Q:1/4=260
+M:2/4
+L:1/16
+K:D
+"E dorian"
+B,2|EDEF GFGA|B2B2 G3A|B2E2 EFGE|FGFE D2B,2|
+EDEF GFGA|BAGB d3c|B2E2 GFED|E4E2:|
+d2|e2e2 Bdef|gagf e2f2|e2B2 BABc|dedc BcdB|
+e2B2 Bdef|gagf efed|Bdeg fedf|e6ef|
+g3e f2d2|edBc d3e|dBAF GABc|dBAF GFED|
+B,2E2 EFGA|B2e2 edef|e2B2 BAGF|E4-E4|]
+
+%%%
+
+X:21105 
+T:KITTY GOT A CLINKING (reel)
+B:DMI.0605 % "...Coming From the Races" 
+Z:Nordberg/Black
+N:1:The title doesn't mean what you might think! I believe "clinking" 
+is a Scots dialect word meaning "a gift" but I couldn't verify this 
+online anywhere. Source's Gaelic title just means "Kitty Coming from 
+the Races".
+N:2:Source has this as continuous 16 measures, no break.
+R:reel
+%Q:1/4=180
+M:4/4
+L:1/8
+K:D
+AG|FDFA d2dc|BABc d2d2|FAAB d2dB|ABAF E2D2|
+FDFA d2dc|BABc d2d2|FAAd BcdB|AFDF E2D2||
+FAAd BGGB|AFFA GEE2|FAAd BGGB|AFDF E2D2|
+FAAd BGGB|AFFA GEE2|FAAd BcdB|AFDF E2D2|]
+
+%%%
+
+X:21106 
+T:KITTY IN THE LANE 
+B:DMI.0796
+Z:Nordberg/Black
+R:reel
+%Q:1/4=180
+M:C|
+L:1/8
+K:G
+"D modal"
+dcAB cBcA|GEDE c2Bc|dcAB cBcA|GEcE EDD2|
+dcAB cBcA|GEDE c2Bc|dcAB cded|cAEG GDD2||
+Addg f2ed|cdef gfgA|Addg fged|cdeg fddc|
+Addg f2ed|cdef g2fg|afge fded|cAGE EDD2|]
+
+%%%
+
+%%%
+
+X:21107 
+T:LADS OF DUNSE, The 
+B:DMI.0354
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:D
+B|AFD DFD|DFD B2A|Bcd AFA|BEE E2B|
+AFD DFD|DFD B2A|Bcd AFA|FDD D2:|
+g|fef d2e|fga B2A|Bcd AFA|BEE E2g|
+[1 fef d2e|fga B2A|Bcd AFA|FDD D2:|
+[2 fga efg|fea B2A|Bcd F2E|FDD D3||
+
+%%%
+
+X:21108 
+T:LADY OF THE LAKE, The 
+B:DMI.0402
+F:file ID dmi1001/108lady_L
+Z:Nordberg/Black
+R:jig % A-B-A
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+A|B2A G2D|E2D G2A|B2A G2A|Bcd edc|
+B2A G2D|E2D G2A|B2d A2c|BGG G2:|
+A|B3 B2A|Bdd def|g2f e2d|dBG ABc|
+B3 B2A|Bdd def|g2e a2g|fdd d2:|
+"repeat mm 1-7, finish on |BGG HG3|"
+
+%%%
+
+X:21109 
+T:LASSES OF DUNSE, The 
+B:DMI.0355
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:D
+g|afd ecA|d2A A2c|BGB AGF|E2E E2g|
+afd ecA|d2A A2G|FDF ECE|D3 D2:|
+G|AFA BGB|AFA d2A|BGB AGF|E2E e2g|
+afa geg|fdf ecA|BdB cec|d3 d2:|
+
+%%%
+
+X:21110 
+T:LAST NIGHT'S FUN 
+B:DMI.0452
+Z:Nordberg/Black
+R:slip jig
+%Q:1/4=150
+M:9/8
+L:1/8
+K:G
+D2A A2G ABc|D2A AGE G2E|D2A A2G ABc|BAG AGE G2E|
+D2A A2G ABc|D2A AGE G2E|D2A A2G ABc|dBG AGE G2E||
+BAB dBG ABc|BAB dBG c2A|BAB dBG ABc|BAG AGE G2E|
+BAB dBG ABc|B2c dBG c2A|def gfe dBG|BAG AGE HG3|]
+
+%%%
+
+X:21111 
+T:LET IT BE SO 
+B:DMI.0196
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:D
+B|ABA AFE|F3 FED|ABA AFA|DFA dcB|
+ABA AFE|FGF FEF|DED FEF|DFA d2:|
+B|Acd e2d|e2d cBA|Acd e2f|gfe d2A|
+def gfe|ded dcB|AcA AFA|DFA d2:|
+
+%%%
+
+X:21112 
+T:LONG STRAND (reel), The
+B:DMI.0794
+Z:Nordberg/Black
+R:reel
+%Q:1/4=180
+M:C|
+L:1/8
+K:G
+G3B dBB2|gBBc dcBA|G3B d2BG|Ac BA GEEF|
+G3B dBB2|gBBc d2cd|egde Bdef|gedB AGEG||
+g3f afge|dBB2 GABd|gfaf gedB|DAFA DAFD|
+g2fg afge|dBBd g2fg|egde Bdef|gbaf gfef||
+"final"Hg4z4|]
+
+%%%
+
+X:21113 
+T:LOVELY LAD, The 
+B:DMI.0406
+Z:Nordberg/Black
+N:DMI's key signature is D but - as in so many other
+instances - the C sharps don't sound right. The version
+below is D modal, but you can replace G with D in the
+K field if you want to change back to D major.
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+"D modal"
+c|d2A A2G|F2D D2F|EFE c2G|E2C C2A|
+B2G c2A|B2G A2G|F2D EFG|F2D D2:|
+d|f2d Ade|f2d def|e2c Gcd|e2c cde|
+f2d g2e|a2f g2e|f2d efg|f2d d2:|
+
+%%%
+
+X:21114 
+T:MADAM BONAPARTE  
+B:DMI.0962
+Z:Nordberg/Black
+N:In the "Set Dance" section of DMI.
+R:hornpipe 
+%Q:1/4=140
+M:C
+L:1/8
+K:G % source key = A
+dc|B2BA BdBG|c2cB cecA|GBdf gfge|d2de dcBA|
+B2BA BdBG|cBcd efge|dBGB cAFA|G2G2G2:|
+BA|GBdf gfge|d2de dcBA|GBdf gfge|d2de dcBA|
+BdGd BdGd|ceAe ceAe|BdGd BdGd|FADA FADA|
+BdGd BdGd|cBcd efge|dBGB cAFA|G2G2G2:|
+
+
+%%%
+
+X:21115 
+T:MADAM IF YOU PLEASE (hornpipe) 
+B:DMI.0944
+Z:Nordberg/Black
+N:Straight G major just doesn't sound right. I suspect that one or 
+more of the accented F's in here should be lowered to F natural.
+To get back to the DMI sound, change the key signature to G> 
+per Version 2 below. 
+R:hornpipe
+%Q:1/4=150
+M:C|
+L:1/8
+K:C
+"G mix"
+GF|DGBD G2FD|GAcd fdge|fdcA dcBG|FDBA GFDC|
+DGGF DGBA|GAcd f2ge|fd cA BGAF|D2G2G2:|
+Bc|dcde fABg|fdcA d2de|fedc Ac AG|FDBA GFDC|
+DGGF GBAG|FGAB cd (3efg|fdce dcBA|G2GFG2:|
+
+
+%%%
+
+X:21116 
+T:MAID I NE'ER FORGOT (reel), The
+B:DMI.0790
+Z:Nordberg/Black
+R:reel
+%Q:1/4=180
+M:C|
+L:1/8
+K:D
+"E dorian"
+B,|E3F GFGA|B2ec dBAd|BGEF GABc|dBec dBAF|
+EB,EF G3A|B2ec dBAc|BGEF GFGB|dBAF GEE||
+A|BABd edef|gfed edBA|BGEF GABc|d2AG FGAF|
+E2BE dEBE|Beec dBAd|BGEF GABc|dBAF GEE2|]
+
+%%%
+
+X:21117 
+T:MAID OF FEAKLE (reel), The
+B:DMI.0775
+Z:Nordberg/Black
+R:reel 
+%Q:1/4=180 
+M:C
+L:1/8
+K:G
+Bc|d2BG AGEG|DGBG c2Bc|d2BG AGEG|DGBG A2GB|
+d2BG AGEG|DGBG c2BA|GABd efge|dBGB A2G2||
+BcdB cBcd|BcdB AEED|BcdB cBce|dBGB A2G2|
+BcdB cBcd|BcdB AEED|Bddf edBd|cgfa gfge||\
+"final Hg4z4|]
+
+%%%
+
+X:21118 
+T:MAID OF KINSALE, The 
+B:DMI.0347
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+D|GDG ABA|BGB def|gfe dcB|cAA A2D|
+GDG cBA|BGB def|gfe dec|BGG G2:|
+A|Bdg dBG|cBc def|gdB edc|BAA A2B|
+GcA Bcd|ece gfe|dBd edc|BGG G2:|
+
+%%%
+
+X:21119 
+T:MAIDS OF BALLINACARTY, The 
+B:DMI.0332
+Z:Nordberg/Black
+N:I'm guessing that this is a D-modal tune, but
+I'm not sure. Replace G with D in the %K field
+and see if you like that better!
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+"D mix"
+K:G
+c|ded cAG|F2D DFD|E2c cBc|ded cAG|
+Acd cAG|F2D DFD|E2A ABG|F2D D2:|
+G|A2d dcd|f2d dcd|e2c cBc|e2c cBc|
+e2f gfg|aba a2g|fed efg|f2d d2:|
+
+%%%
+
+X:21120 
+T:MAIDS OF KILMALLOCK (reel), The
+B:DMI.0778
+Z:Nordberg/Black
+R:reel % A-B-A
+%Q:1/4=180
+M:C
+L:1/8
+K:D
+dB|AD FD A2AB|ADFA BEE2|ADFA Beed|cABc dedB|
+AD FD A2AB|ADFA BEE2|ADFA Beed|cABc d2||
+A2|d2d2 dfed|cAA2 ecAc|d2dc dfed|cABc d2A2|
+defg afed|cAA2 ecAg|afge fded|cABc dedB|]
+"repeat 1 - 8"
+
+%%%
+
+X:21121 
+T:MAIDS OF TULLA (reel), The
+B:DMI.0783
+Z:Nordberg/Black
+R:reel
+%Q:1/4=180
+M:C|
+L:1/8
+K:A 
+a|eA cA EA cA|eAce fedc|bafg afec|defg a2gf|
+eA cA EA cA|eAcA fedc|defg afec|dfed cAA :|
+e|aAA2 EAcA|aAA2 fedc|bBB2 FBdB|bBB2 defg|
+aAA2 EAcA|aAAg fedc|defg afec|dfed cAA :|
+
+
+%%%
+
+X:21122 
+T:MAN in the MOON, The 
+B:DMI.0311
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:Em
+c|BGE EFA|BAB d2B|AFD DFA|DFA dfd|
+BGE EFA|BAB def|edB AdF|FEE E2:|
+c|efe edB|def g2e|ded d^cB|def gbg|
+e/f/ge edB|def gfg|edB AdF|FEE E2:|
+
+%%%
+
+X:21123 
+T:MARINER'S FROCK, The 
+B:DMI.0400
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+"A dorian"
+A|AGE G2A|G2E E2D|EAA c2d|e2d def|
+g3 gfe|dcB c2d|edc BAG|B2A A2:|
+z|a2a aga|a2e e2f|g2a g2e|dBG GBd|
+g2g e2e|dcB c2d|edc BAG|B2A A2:|
+
+%%%
+
+X:21124 
+T:MARKET GIRL, The 
+B:DMI.0180
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+DEF GBG|AGA BGE|DEF G2d|AEE GEE|
+DEF GBd|AGA B2g|gfe dBG|AGE GED:|
+Bdd dBd|ege dBG|Bdd dcB|AGE GED|
+Bdd d2f|edB def|gfe dcB|AGE GED:|
+
+%%%
+
+X:21125 
+T:MARTIN'S ONEHORNED COW 
+B:DMI.0325
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:D
+F2A AFA|BGB AFD|F2A AFD|EFE E2D|
+F2A AFA|BGB AFD|FAF GEC|DED D3:|
+d2B cBA|BdB AFD|d2B cAF|EFE EFA|
+d2B cBA|BdB AFD|FAF GEC|DED D3:|
+
+%%%
+
+X:21126 
+T:MAY BE I WILL 
+B:DMI.0359
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+c|BcA GBG|EDE G2A|BAG GBd|ecA Adc|
+BcA GEG|DEF GBc|dge dBA|BGG G2:|
+D|GBc dBA|Bdd def|gfe dBG|AGA BGE|
+GAG g2g|fed gfe|dBG cBA|BGG G2:|
+
+%%%
+
+X:21127 
+T:MAYOR HARRISON'S FEDORA  
+B:DMI.0799
+Z:Nordberg/Black
+N:1:Nordberg's transcription omits the 3rd part.
+N:2:The source version has no C sharps. If you want to hear what that
+version sounds like, replace D with G in the K: field.
+H:Chicago had two Mayor Harrisons, father and son. Harrison Sr. 
+(term 1879-1887) is the only one pictured with a hat! 
+R:reel
+%Q:1/4=180
+M:C|
+L:1/8
+K:D
+"E dorian"
+EF|GEEG B2AF|GFGA BAGE|FDDF A2FA|dcdB AGFA|
+GEFG B2AF|GFGA B2Bc|dedB AGFA|GEFD E2||
+Ac|Bcdf e2ef|edef edBA|GABc d2de|dBgf edBA|
+Bcdf edef|gage dcBc|dedB AGFA|GEFD E2|
+EF|GABA G2Bc|d2AG FDDF|EDEG BABd|gefd edge|
+dedB ABAF|GFEF GABc|dedB AGFA|GEFD E4|]
+
+
+%%%
+
+X:21128 
+T:MCCARTHY'S (hornpipe) 
+B:DMI.0831
+Z:Nordberg/Black
+R:hornpipe
+%Q:1/4=150
+M:C|
+L:1/8
+K:A
+E2|A2Ac ecAc|d2fd ecAc|d2fd c2ec|BAGA BdcB|
+A2Ac ecAc|dcdf edcB|Aagf edcB|A2A2 A2:|
+fg|aece fece|Aece fece|defd cdec|BAGA BdcB|
+A2Ac ecAc|dcdf edcB|Aagf edcB|A2A2 A2:|
+
+%%%
+
+X:21129 
+T:MCFADDEN'S MISHAP (reel)
+B:DMI.0637
+Z:Nordberg/Black
+N:Source m.15: /(3bag (3agf (3gfe dc/
+R:reel % A-B-A
+%Q:1/4=180
+M:C|
+L:1/8
+K:G
+G2DB, G,B,DB,|CB,A,B, CDEF|G2DB, G,B,DF|Ggdc BcAF|
+GGDB, G,B,DB,|CB,A,B, CDEF|GFGf gedc|BdAc BGG2||
+g2dB GBdf|gbag fdef|g2dB GBdB|cBAG FGAd|
+gedB GBdf|gbag fgag|"15"bgaf gedc|BdAG FDEF|]
+"repeat mm 1 - 8"
+
+%%%
+
+X:21130 
+T:MERRY HUNTSMAN, The 
+B:DMI.0318
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G % source key F
+a|gdB BdB|gdB gba|gdB BdB|ecA A2f|
+gdB BdB|gdB fga|bgd afd|ecA A2:|
+K:D
+e|d2b afd|afd fga|d2b afd|ecA cde|
+d2b afd|afd fga|bge afd|1 ecA cd:|\
+[2 ecB ABc|d6|]
+
+%%%
+
+X:21131 
+T:MERRY MARY 
+B:DMI.0365
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:D
+E|DFA ABc|dcB A2A|B2E EFG|FEF D3|
+DFA ABc|dcB A2A|Bcd edc|d3 d2:|
+e|fdf ece|dcB A2A|B2E EFG|FEF D3|
+fdf ece|dcB A2A|Bcd edc|d3 d2:|
+
+%%%
+
+X:21132 
+T:MISS BLAIR'S FANCY 
+B:DMI.0168
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+B|dBG GBG|AFD DFD|EFG ABc|BAG FED|
+dBG GBG|AFD DFD|EFG AFD|G3 G2:|
+B|d2d dBd|gfg dBG|cec BdB|ABG AFD|
+[1 dBd dBd|gfg dBG|EFG AFD|G3 G2:|
+[2 dBd def|gba gdB|EFG AFD|G3 G3|]
+
+%%%
+
+X:21133 
+T:MISS DOUGLAS 
+B:DMI.0346
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:D
+g|f2d edc|d2B AGF|GAB dAF|GEE E2g|
+f2d edc|d2B AGF|GAB dAG|FDD D2:|
+g|afd ded|gfg a2f|g2a baf|gee efg|
+[1 afd ded|gfg a2f|g2a bag|fdd d2:|
+[2 f2d e2c|d2B AGF|GAB eAG|FDD D3|]
+
+%%%
+
+X:21134 
+T:MISS DOWNING'S FANCY 
+B:DMI.0333
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:Em
+E2F GFG|AGA B2e|E2F GFG|AFD FGA|
+E2F GFG|AGA Bcd|edB cBA|1 BAG FED:|\
+[2 BGE E3||
+|:e2f gfe|dBd e3|Bee Bee|fdB def|
+e2f gfe|dBd e2f|gfe dBG|1 AGA BGE:|\
+[2 BAG FED|"final"E6|]
+
+%%%
+
+X:212135 
+T:MISS FAHEY'S FANCY (reel)
+B:DMI.0800
+Z:Nordberg/Black
+N:This sounds to me as if the first part should be D modal
+but the source has no C naturals. If you want to hear the
+first part with C sharps, replace G in the %K: field with D. 
+R:reel
+%Q:1/4=180
+M:C|
+L:1/8
+K:G
+AG|FDDC A,2FG|AcBG cBAG|AGDE F2EF|DdcA G2AG|
+FDDC A,2DG|BAcA dcde|fdec dcAB|cAGF G2||
+K:D
+FG|Adde fdec|ABcA dcAG|Adde fgec|ABcA d2fg|
+afge fdef|dcAB cAGE|Dddc Adeg|fdcA HG4|]
+
+
+%%%
+
+X:21136 
+T:MISS GRANT'S JIG 
+B:DMI.0349
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:Am
+G|EAB AEA|AcA BGE|DGG G2A|GBG AGE|
+EAB AGA|BAG Bcd|ege dcB|cAA A2:|
+d|ecA A2B|c2d edc|BdB G2B|GAG Bcd|
+cec A2B|cBA a2g|ece dcB|cAA A2:|
+
+%%%
+
+X:21137 
+T:MISS WALSH'S FANCY 
+B:DMI.0328
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:A
+EAA cAA|eAA cAA|EAA cAA|GAB BGE|
+EAA cAA|eAA cAA|aga ecA|BAA A3:|
+aga ecA|cAc efg|aga ecA|BAF Ace|
+aga ecA|cAc efg|aga ecA|BAA A3:|
+EAA cee|dff cee|EAA cee|BAF AFE|
+EAA cee|dff cee|aga ecA|BAA A3:|
+
+%%%
+
+X:21138 
+T:MISS WISEMAN'S FANCY 
+B:DMI.0208
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G 
+"simplified version"
+D|DGG GBG|AFD DGA|fdf ecA|BGd AFD|
+DGG GBG|AFD DGA|fed ecA|AGG G2:|
+e|gfg GFG|fef FGA|fed efd|cAG FED|
+gfg GFG|fef FGA|fed ecA|AGG G2:|
+c|BGd BGd|AFD DGA|f2d e2d|cAG FDC|
+DGG BGd|AFD DGA|fed ecA|AGG G2:|
+
+
+%%%
+
+X:21139 
+T:MORNING IN SUMMER, A 
+B:DMI.0403
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+"D modal"
+A|A2D D2E|F2E F2D|G2F G2A|d2^c A2G|
+A2D D2E|F2E F2D|D2G F2G|A2G G2:|
+G|F2G A2B|c3 AB^c|d2^c d2e|f2d d2e|
+f2e f2d|c2A A2F|G2F G2A|1 "thru"d2^c A2:|
+[2 "final"GFE D3|]
+
+%%%
+
+X:21140 
+T:MOUNTAIN LARK (reel), The
+B:DMI.0516
+Z:Nordberg/Black
+R:reel
+%Q:1/4=180
+M:C|
+L:1/8
+K:Em
+E2BA Bdef|deBd AFDF|E2BA Bdef|dBAF BEEz|
+E2BA Bdef|deBd AFDF|E2BA Bdef|gefd Beez||
+eBB2 efge|fdad bdad|eBB2 efge|fedf e2ef|
+eBBB efge|fdad bdad|gafg egfe|dBAF BEHE2|]
+
+%%%
+
+X:21141 
+T:MRS.DELANEY (reel)
+B:DMI.0798
+Z:Nordberg/Black
+N:Single in DMI
+N:2:Nordberg calls this "D dorian" (?) IMHO too
+many G's not to be in the key of . . . G!
+R:reel
+%Q:1/4=180
+M:C|
+L:1/8
+K:G
+B|cAGF G2AF|DGBG dGBd|cAGF G2eg|fdcA dfed|
+cAGF G2AF|DGBd c2BA|FGAB cdeg|fdcA d3 :|
+A|Gggf g2ag|fdef fdcA|Gggf g2eg|fdcA BGAF|
+Gggf g2fg|abaf g2fg|afge FDfd|1 "thru"cAGA d3 :|
+{2 "final"cBAF G4|]
+
+
+%%%
+
+X:21142 
+T:MUNSTER BACON 
+B:DMI.0340
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:D
+G|ABA AFD|dfe d2c|BGB dAF|GEE E2G|
+AFA dcd|BGB ege|agf ede|fdd d2:|
+f|afd dfa|bge efg|faf ged|ecA A2G|
+Fdd cee|dff efg|faf ede|fdd d2:|
+
+%%%
+
+X:21143 
+T:NELL KENNEDY 
+B:DMI.0363
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+A|B2G A2F|GFD FGA|BAG A2F|G2g fdc|
+B2G A2F|GFD FGA|BAG FDF|G3 G2:|
+A|Bde fdf|gag fdc|Bde fdf|g2f g2a]|
+[1 Bde fdf|gag fdc|BAG FDF|G3 G2:|
+[2 bag gag|fdB cde|fed cAF|G3 HG3|]
+
+%%%
+
+X:21144 
+T:NEW CENTURY (hornpipe), The 
+B:DMI.0939
+Z:Nordberg/Black
+R:hornpipe
+%Q:1/4=150
+M:C|
+L:1/8
+K:G
+Bc|dBGA GBdB|cAFE FG Ac|BAGF GBdf|gbaf gage|
+dgdB G2AB|cfcA F2GA|BGgd ecdF|AGGF G2:|
+GA|Bcde fdcA|dDEF GFGA|Bcde fdge|afdc d2df|
+gdBG ecAF|GFGA BGEF|GDBG cedF|AGGF G2:|
+
+%%%
+
+X:21146 
+T:NEWMARRIED COUPLE, The 
+B:DMI.0225
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+D|GAG GBd|gfe d2c|Bdg dBG|FAA A2D|
+GAG GBd|gfe d2c|BdB cAF|GAG G2:|
+c|Bdg dBG|Bdg d2c|Bdg dBG|FAA A2c|
+Bdd def|gfe fdc|BdB cAF|GAG G2:|
+
+%%%
+
+X:21145 
+T:NEW POLICEMAN (reel), The
+B:DMI.0511
+Z:Nordberg/Black
+R:reel % A-B-A
+%Q:1/4=180
+M:C|
+L:1/8
+K:G
+B|c2BG AGEG|DGBG AGEG|BcAB G2Bc|dBAc BGG:|
+e|g2gf g2dg|egdg egde|g2gf g2d2|eaag eaa2|
+dggf g2dg|egdg egde|g2ge a2ag|b2ba gfed|]
+"repeat A part"
+
+%%%
+
+X:21147 
+T:NIGHT DANCE, The 
+B:DMI.0256
+Z:Nordberg/Black
+N:aka "Strike the Young (or "Gay") Harp".
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:D % transposed from C
+dBB cAA|BAG FED|dBB cAA|dAF EFA|
+def Bcd|ABG F2E|DDD D2F|AFD EFA:|
+def fga|aba afd|def fga|bge ecA|
+def a2a|b2g a2g|fed dfe|dAF EFA:|
+dfe dfe|dAG FED|dfe dfe|dAF EFA|
+def Bcd|ABG F2E|DDD D2F|AFD EFA:|\
+"final"HD3z3|]
+
+%%%
+
+X:21148 
+T:O'DONOVAN'S HORNPIPE 
+B:DMI.0893
+Z:Nordberg/Black
+R:hornpipe
+%Q:1/4=150
+M:C
+L:1/8
+K:D
+P:simplified version
+DF|GFGB AFDc|dcdf ecAf|gfeg f2df|e2dB A2GE|
+GFGB AFDc|dcdf ecAg|f2df g2ec|dfec d2:|
+Ac|dcdf afdf|afbf afdf|g2eg f2df|e2dB A2GE|
+GFGB AFDc|dcdf ecAg|f2df g2ec|dfec d2:|
+
+
+%%vskip
+P:Source version
+(3DEF|GFGB AFDc|dcdf ecAf|gfeg (3faf df|(3efe (3dcB (3ABA (3GFE|
+GFGB AFDc|dcdf ecAg|(3faf df (3gbg ec|df (3edc d2:|
+Ac|dcdf afdf|afbf afdf|(3gbg eg (3faf df|(3efe (3dcB (3ABA (3GFE|
+GFGB AFDc|dcdf ecAg|(3faf df (3gbg ec|df (3edc d2:|
+
+%%%
+
+X:21149 
+T:O'MAHONY'S FROLICS 
+B:DMI.0190
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:D
+G|F2D DFD|dAF AFD|EGE CEG|cGE CEG|
+F2D DFD|dAF AFD|GBG EFG|AFD D2:|
+g|f2d dfd|afd def|e2c cec|gec efg|
+[1 f2d dfd|afd efg|fdB Ade|fdd d2:|
+[2 afa geg|fdf ecA|GBG EFG|AFD D3|]
+
+%%%
+
+X:21150 
+T:O'SULLIVAN'S MARCH 
+B:DMI.0051
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:D
+d|AFF DFF|AGF G2B|AFF DFD|EDD DdB|
+AFF DFG|AGF G2B|AFA dAF|EDD D2:|
+d|BAd BAd|Bdc BAF|AFd AFd|AFd ABc|
+d3 fdB|AGF G2B|AFA dAF|EDD D2:|
+
+%%%
+
+X:21151 
+T:OFF TO THE HUNT 
+B:DMI.0014
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:Am
+E|ABA ABd|ege dBG|G^FG BAG|dBG BAG|
+ABA ABd|e^de gba|edc Bcd|ecA A2:|
+^g|a^ga ABA|a^ga A2^f|g2G GAG|BAB GAB|
+cBc d^cd|e^de gba|edc Bcd|ecA A2:|
+
+%%%
+
+X:21152 
+T:OH HAG YOU HAVE KILLED ME 
+B:DMI.0321
+Z:Nordberg/Black
+N:To hear this tune in the DMI D major version,
+replace G with D in the K: field.
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+"D modal"
+D2d cAG|F3 GEA|DGE EFD|AGE EFD|
+D2d cAc|dcA GEA|DED DED|DED DED:|
+ABA GAG|FDF GEA|DGE EFD|AGE EFD|
+AcA dAG|FDF GEA|DED DED|DED DED:|
+
+%%%
+
+X:21153 
+T:OLD BOG GROUND (reel), The
+B:DMI.0771
+Z:Nordberg/Black
+R:reel % A-B-A
+%Q:1/4=180
+M:C|
+L:1/8
+K:G
+B/A/|:G2EG DGBG|DGBG AGEG|G2EG DGBc|dBAc BGG2:|
+Bdd2 ecc2|dBGB AGED|Bdd2 efge|dBAc BGG2|
+Bdd2 ecc2|dBGB AGED|Bdef gage|dBAc BGAF|]
+"repeat A part"
+
+%%%
+
+X:21154 
+T:OLLISTRUM JIG, The 
+B:DMI.0326
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+"D modal"
+G|EGE FDD|FDd cAG|EGE FDD|FDd A2G|
+EGE FDD|FDd cde|fed efg|fed cA:|
+Ecc Add|Acc cAG|Ecc Add|edc A2G|
+Ecc Add|Acc cAG|Ecc efg|1 edc A2:|\
+[2 edc Hd3|]
+
+%%%
+
+X:21155 
+T:ON THE SLY (reel)
+B:DMI.0639
+Z:Nordberg/Black
+R:reel
+%Q:1/4=180
+M:C|
+L:1/8
+K:G
+"A dorian"
+gf|eAA2 egdc|BAGA Bcdf|eAA2 egdc|BAGB A2gf|
+eAA2 egdc|BAGA Bcd2|eaag egdc|BAGB A2||
+dc|BGBd g3a|bgaf ged2|eaag a2ga|bgaf gedc|
+BGBd g3a|bgaf gfed|eaag egdc|BAGB A4|]
+
+%%%
+
+X:21156 
+T:OPEN THE DOOR FOR THREE 
+B:DMI.0449
+Z:Nordberg/Black
+R:slip jig
+%Q:1/4=150
+M:9/8
+L:1/8
+K:G
+D|G2c BGB AFA|G2c BGB c2d|
+ege dcB AFD|E2c ccA G2D|
+G2c BGB AFA|G2c BGB c2d|
+ege dcB AFD|E2c BcA G2||
+d|gdB gdB AFD|gfe def g2d|
+ege dcB AFD|E2c BcA G2d|
+gdB gdB AFD|gfe def g2d|
+ege dcB AFD|E2c BcA HG3|]
+
+%%%
+
+X:21157 
+T:ORANGE ROGUE, The  
+B:DMI.0978
+Z:Nordberg/Black
+R:set 6/8
+%Q:1/4=160
+M:6/8
+L:1/8
+K:Em
+d|ege dBA|GEF G2A|BAB def|g2b agf|
+ege dBA|GEF G2A|BAB dcd|e3e2:|
+f|g2e a2f|g2B Bcd|g2e agf|g3 B2d|
+g2e a2f|g2e fed|BAB def|g2b agf|
+ege dBA|GEF G2A|BAB def|g2b agf|
+ege dBA|GEF G2A|BAB dcd|e3e2:|
+
+%%%
+
+X:21158 
+T:PADDY MACK (hornpipe) 
+B:DMI.0951
+Z:Nordberg/Black
+R:hornpipe
+%Q:1/4=150
+M:C|
+L:1/8
+K:G
+DF|G3F GBdB|cdef gfge|dBGB dBGB|cAFA cAFA|
+G3F GBdB|cdef gfge|dged BGAF|G2GFG2:|
+Bc|dBdB GBdg|ecec ABcA|dBdB GBdB|AGFE D2Bc|
+dBdB GBdB|cdef gfge|dged BGAF|G2GFG2:|
+
+%%%
+
+X:21159 
+T:PADDY'S WHISKERS 
+B:DMI.0259
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:D
+G|FGA Bcd|cBA d2e|fdB AGF|GFG EAG|
+FGA Bcd|cBA d2e|fdB AFA|Bdd d2:|
+g|aAA ABA|agf ecA|dDD DED|AGF E2G|
+FGA Bcd|cBA g2g|fdB AFA|Bdd d2:|
+
+%%%
+
+X:21160 
+T:PAY THE GIRL HER FOURPENCE (reel)
+B:DMI.0804
+Z:Nordberg/Black
+R:reel
+%Q:1/4=180
+M:C|
+L:1/8
+K:Em
+fe|dBB2 dBGB|dcAc g2fe|dcBc dBGf|gefd egfe|
+dBB2 dBGB|dedB dfga|bagb afdf|gefd e2:|
+ef|g2bg fgaf|gefd edBd|g2bg f2af|gefd e3f|
+gabg fgaf|gefd edBd|g3e fefg|afdf e2:|
+
+%%%
+
+X:21161 
+T:PIPER'S WELCOME, The 
+B:DMI.0160
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:D
+z2|dcB cAA|dAG FED|dBd cAF|AGF EFA|
+dcB cAA|dAG FEF|DFA DFA|AGF EFA:|
+%
+d3 fdf|a2a afe|ded fdf|efg ecA|
+d3 fdf|a2a afe|dcB cAF|AGF EFA:|
+%
+def def|dAG FED|def def|AGF EFA|
+def edc|dAG FED|D2D FEF|AGF EFA:|\
+"final"HD4z4|]
+
+%%%
+
+X:21162 
+T:PLANXTY DAVIS 
+B:DMI.0973
+Z:Nordberg/Black
+R:hornpipe 
+N:In the "Set Dance" section of DMI.
+%Q:1/4=75
+M:2/4
+L:1/16
+K:D
+FG|A2AB A2FG|AFAB A3B|AGFE DEFG|A2AB A2dc|
+B2Bd B2Ac|BcBd B2dB|AGFE DEFA|B2Bd B2b2|
+bagb afeg|fedf e2de|fedB BAdF|A2AB A2dc|
+B2AB d2Bd|e2de f2ed|BABc d2F2|E4D2 ||
+fg|a2ab a2fg|agab a2fg|agfe defg|a2ab a2fa|
+b3b b2fa|bafa b2bg|agfe defa|b2ba b2fa|
+bafb afeg|fedf e2de|fedB BAdF|A2AB A2dc|
+B2AB d2cd|e2de f2ed|BABc d2F2|E4D4 |]
+
+%%%
+
+X:21163 
+T:PORTPATRICK JIG, The
+B:DMI.0356
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+g|dBG GAB|c2B A2G|dBG GAG|A2B c2g|
+dBG GAB|c2B A2G|BdB cAd|BGG G2:|
+d|ece dBd|ece def|gfe dBG|A2B c2e|
+def gfe|dcB A2G|BdB cAd|BGG G2:|
+
+%%%
+
+X:21164 
+T:POWERS OF PUNCH, The 
+B:DMI.0352
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+E|DEF GBG|AEF G2E|DGA GBc|dec Bcd|
+ege dBd|cBA BGE|DcB AGA|BGG G2:|
+%
+B|dBd gdB|cAG FGA|dBd gdB|def g2f|
+ege dBG|cBA BGE|DcB AGA|BGG G2:|
+%
+E|DGB cde|dge dBG|ceg dBG|EFG A2d|
+gfe afd|ege dBG|EcB AGA|BGG G2:|
+%
+c|BAG AFD|GDC B,A,G,|G,GF GDB,|A,AA A2a|
+bgb afa|gfe dBG|EcB AGA|BGG G2:|
+
+%%%
+
+X:21165 
+T:PRETTY BROWN GIRL, The 
+B:DMI.0151
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+A|B2d cAA|BGG cAG|B2d cAA|BGG G2A|
+B2d cAA|Bde dBG|B2d cBA|BGG G2:|
+f|gee fdd|ece dBG|gfe fdf|ece d2f|
+gfe fdf|ege dBG|B2d cBA|BGG G2:|
+
+%%%
+
+X:21166 
+T:PRIMROSE LASS (reel), The
+B:DMI.0733
+Z:Nordberg/Black
+R:reel
+%Q:1/4=180
+M:C|
+L:1/8
+K:G
+B2BA G2GE|DEGA BAA2|dBAB GAGE|DEGA BGG2|
+B2BA G2GE|DEGA BAA2|dcBA GFEF|DEGA BGG2:|
+Bdgd edgd|Bdgd eAA2|Bdgd edgd|BdAc BGG2|
+Bdgd edgd|Bdgd eAA2|Bdef gage|dBAc BGG2:|
+
+%%%
+
+X:21167 
+T:QUEEN'S SHILLING (reel), The
+B:DMI.0752
+Z:Nordberg/Black
+R:reel % A-B-A
+%Q:1/4=180
+M:C|
+L:1/8
+K:G
+D2|G2GB dBGB|dBeB dBAB|G2GB d2Bd|egdB AcBA|
+G2GB dBGB|dBeB dBAB|G2GB dBGB|egdB A2||
+ga|b2gb a2fa|g2eg fdB2|b2gb a2ga|gfef d2ga|
+bagb agfa|gfeg dega|bgaf gfed|egdB AcBA|]
+"repeat A part"
+
+%%%
+
+X:21168 
+T:RAKES OF SOLLOHOD, The 
+B:DMI.0454
+Z:Nordberg/Black
+R:slip jig
+%Q:1/4=150
+M:9/8
+L:1/8
+K:G
+d2c A2G F2D|D2G G2A B2c|d2c A2G F2D|G2B A2F G2B|
+d2c A2G F2D|D2G G2A B2c|d2c A2G F2D|G2B A2F G2A|]
+G2B d2B c2A|G2B d2c B3|G2B d2B c2A|G2F G2A B3|
+G2B d2B c2A|G2B d2c B3|def g2e d2B|A2G A2B c3|]
+"final m.16"A2G A2B HG3|]
+
+%%%
+
+X:21169 
+T:RAKES OF WESTMEATH, The 
+B:DMI.0416
+Z:Nordberg/Black
+R:slip jig
+%Q:1/4=150
+M:9/8
+L:1/8
+K:D
+d3 dAG FED|d2d dAF G2E|ABc dAG FGA|cBc E2F G2E:|
+d2g fdf ece|d2g fdf g2e|d2g fdf ece|cBc E2F G2E|
+d2g fdf ece|d2g fdf g2e|afd gec d2B|cBc E2F G3|]
+
+%%%
+
+X:21170 
+T:RAMBLER IN CORK (reel), The
+B:DMI.0777
+Z:Nordberg/Black
+R:reel % A-B-A
+%Q:1/4=180
+M:C
+L:1/8
+K:D
+"E dorian"
+G2BG FGAc|B2BA BEEF|G2BG FABc|dBAG FDEF|
+G2BG FGAc|B2BA BEEF|G2BG FABc|dBAc BEE2||
+g2fg edBA|G2GA Bdef|g2fg edBc|dBAG FDDf|
+g2fg edBA|G2GA Bdef|gfed efge|dBAG FDEF||\
+"final"E4z4|]
+
+%%%
+
+X:21171 
+T:RED ROSE, The 
+B:DMI.0315
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+d/B/|GAG GBd|geg e2d|ege dBG|ABA A2B|
+GAG GBd|gfg e2d|ege dBG|AGG G2:|
+d|gab bag|fag ged|ege dBG|ABA A2d|
+gab bag|gfg e2d|ege dBG|AGG G2:|
+
+%%%
+
+X:21172 
+T:RICK'S RAMBLES (hornpipe) 
+B:DMI.0940
+Z:Nordberg/Black
+R:hornpipe
+%Q:1/4=150
+M:C|
+L:1/8
+K:G
+EF|GFGA BDEF|GBAG FGAc|dgfe dcBc|d2ed cAFA|
+GFGA GBdB|cBAG FGAc|dgfe dcEF|A2G2G2:|
+Bc|dcBc edBG|A2EF AGFE|DddB cAEF|GBAF GDB,D|
+GDEF GBdB|cBAG FGAc|dgfe dcEF|A2G2G2:|
+
+%%%
+
+X:21173 
+T:RIGHTS OF MAN (hornpipe), The 
+B:DMI.0811
+Z:Nordberg/Black
+R:hornpipe
+%Q:1/4=150
+M:C|
+L:1/8
+K:Em
+GA|BdAB GAGF|EFGA B2ef|gfed edBd|cBAG A2GA|
+BdAB GAGF|EFGA B2ef|gfed Bgfg|e2E2E2|]
+ga|babg efga|babg egfe|d2d^c defg|afbf afdf|
+edef gfga|bgaf gfef|gfed Bgfg|e2E2E2|]
+
+%%%
+
+X:21174 
+T:RISING SUN (reel), The
+B:DMI.0608
+Z:Nordberg/Black
+R:reel
+%Q:1/4=180
+M:C
+L:1/8
+K:D
+fe|d2FB A2FA|Bdeg fdBc|d2FB AGFD|EGFE Dgfe|
+d2FB A2FA|Bdeg fdBc|dcdB AGFD|EGFE D2||
+Ac|defg afed|cA eA fAec|defg afed|cA Bc d2Ac|
+defg afed|cA eA fAec|dfff dggg|fgfe d2||
+fg|afbf afdf|gfed cdeg|afbf afdf|abag fdeg|
+afbg afdf|gfed fdBc|d2FG A2de|faef Hd4|]
+
+%%%
+
+X:21175 
+T:RUNAWAY JIG, The 
+B:DMI.0339
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:D
+A2F F2A|d3 cBA|B2G G2A|B2A Bcd|
+A2F F2A|d3 cBA|Bcd ecA|1 d3 dcB:|\
+[2 d3 d2||
+A|d2e f2d|g2e f2d|ecA AcA|ecA AcA|
+d2e f2d|g2e f2d|ecA ABc|d3d2:|
+
+%%%
+
+X:21176 
+T:SALLY MAGEE 
+B:DMI.0314
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+D|DGG GFG|AFD FGA|B2G A2F|GFD D2D|
+DGG GFG|BAG ABc|BdB cAF|AGG G2:|
+g|fef dfd|cAG FGA|fef dfd|cAF G2g|
+fef dfd|cAG FGA|BdB cAF|AGG G2:|
+
+%%%
+
+X:21177 
+T:SHADY LANE, The 
+B:DMI.0409
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:Dm
+e|f2e fga|g2f efg|f2d def|ecA A2e|
+f2e fga|g2f efg|f2d e2^c|d3d2:|
+d|c2A AGF|c2A A2d|c2A BAG|F2D D2d|
+c2A AGF|c2A A2e|f2d e2c|1 d2e f2:|\
+[2 d3 d3|]
+
+%%%
+
+X:21178 
+T:SHASKEEN REEL, The 
+B:DMI.0802
+Z:Nordberg/Black
+N:Source has this as single (A-B)
+R:reel
+%Q:1/4=180
+M:C|
+L:1/8
+K:G
+DE|G3B A2Ac|dged cAAc|BdBG Ac AF|GBAG FDEF|
+GFGB A2 Ac|dged cAAg|fefa ecAc|BGAF G2:|
+Bc|dggf g2fg|abag fddc|BcBG Ac AF|GBAG FDD2|
+dggf g2fg|abag fdde|fefa ecAc|BGAF G2:|
+
+%%%
+
+X:21179 
+T:SHUFFLE AND CUT 
+B:DMI.0997
+Z:Nordberg/Black
+N:This is in the "Set Dance" section of DMI.
+R:slip jig % misc 9/8
+%Q:1/4=150
+M:9/8
+L:1/8
+K:D
+dBG FAF EGE|cEE E2B AFD|
+dBG FAF EGE|AFD D2B AFD:|
+faf ege BdB|cEE E2B AFD|
+faf ege BdB|AFD D2B AFD:|
+G2e F2d E2D|cEE E2B AFD|
+G2e F2d E2B|AFD D2B AFD:|
+
+%%%
+
+X:21180 
+T:SLIEVENAMON (hornpipe) 
+B:DMI.0812
+Z:Nordberg/Black
+R:hornpipe
+N:Dotted rhythm removed
+%Q:1/4=150
+M:C|
+L:1/8 
+K:G
+B2|GDB,D G,DB,D|GBAG 2DF|GBdf gdBd|cBAG Fedc|
+BGFG EDB,D|GABG EGDF|GBdg egdc|B2G2G2:|
+Bc|dgg2 bgg2|dgbg agfg|agab [ac']bag|fgfe dgB^c|
+dgg2 bgg2|d2 bg egdc|Bdgd AdcA|B2G2G2:|
+
+%%%
+
+X:21182 
+T:SPALPEEN FANACH (hornpipe), The 
+B:DMI.0972
+Z:Nordberg/Black
+N:In the Set Dance section of DMI.
+R:hornpipe 
+%Q:1/4=140
+M:C
+L:1/8
+K:G
+gf|efed B2A2|GABG E2EF|G2GF GABc|dedc B2gf|
+efed B2A2|GABG E2G2|FGAF DEFA|G4G2:|
+GA|Bdef g2fg|agfe d2Bd|edef gfed|e2f2 g2fg|
+efed BcBA|GABG EDEG|FGAF DEFA|G4G2:|
+
+%%%
+
+X:21183 
+T:SPATTER THE DEW 
+B:DMI.0446
+Z:Nordberg/Black
+R:slip jig
+%Q:1/4=150
+M:9/8
+L:1/8
+K:Em
+EFE E2F G2F|EFE E2B AFD|EFE E2F G2B|AFA dAG FED:|
+E2B B2F G2F|E2B B2G AFD|E2B B2F G2B|AFA dAG FED|
+E2B B2F G2F|E2B B2G AFD|E2B AB^c dcB|AFA dAG FED||
+B2e efd e2d|B2e e2a fdB|A2d d2^c d2B|A2e d2B AFD|
+B2e efd e2d|B2e e2a fdB|fga efg d2A|B2^c A2G FED||
+BdB ABA G2F|EFE E2B AFD|BdB ABA G2B|AFA dAG FED|
+BdB ABA G2F|EFE G2F AFD|B^cd ABc dcB|AFA dAG FED|]
+
+%%%
+
+X:21184 
+T:SPRIG OF SHILLELAH, The  
+B:DMI.0994
+Z:Nordberg/Black
+N:In the Set Dance section of DMI due to 6/10
+measure structure.
+R:jig 
+%Q:1/4=140
+M:6/8
+L:1/8
+K:G
+E|DEF GFG|ABA AGF|GBd dcB|AcB AGF|GAB EFG|DEF G2:|
+c|BGB dBd|ece d2c|BGB def|gfe dcB|cec BdB|
+AcB AGF|GBd dcB|AcB AGF|GAB EFG|DEF G2:|
+
+
+%%%
+
+X:21185 
+T:STAY WHERE YOU ARE 
+B:DMI.0327
+Z:Nordberg/Black
+N:I'm considering the long c's at the end of
+each part as C natural, although they're not 
+marked that way in source. If you want to hear
+the source version, replace G with D in the K: 
+field.
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+"D modal"
+ABc|dcd ABc|d2A AGE|dcd ABc|def gfe|
+"5"dcd ABc|d2A AGE|GAG EDE|c3:|
+ABc|"9"d2e fed|ecA AcA|d2e fed|faf gfe|
+"13"d2e fed|ecA AGF|GFG EDE|c3:|
+ABc|"17"d2A c2A|d2A ABc|d2A c2A|def gfe|
+"21"d2B c2A|B2G A2F|GAG EDE|c3:|"final"Hd6z3|]
+
+%%%
+
+X:21186 
+T:STEAM PACKET (reel), The 
+B:DMI.0517
+Z:Nordberg/Black
+R:reel
+%Q:1/4=180
+M:C|
+L:1/8
+K:G
+"D mix"
+B|AGG2 AGFD|DGG2 AdcA|BGGB AFDE|FEFG AdcB|
+AGG2 AGFD|DGG2 AdcA|BGGB AFDE|FEFG Adc :|
+e|dgg2 agg2|dgfg fdcA|dgg2 agg2|dcde fdcA|
+dgg2 agg2|dgge f2fg|afge fdec|1 "thru"dcde fdc:|
+[2 "final"dcBc AGFE|D4z4||
+
+%%%
+
+X:21187 
+T:STOLEN PURSE, The  
+B:DMI.0344
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+G|FED cAg|fed cAG|ABG ABc|dcA ABG|
+FED cAg|fed cAF|G3 GAF|DGG G2:|
+%
+B|cBA fAg|fed cAG|ABG ABc|dcA ABG|
+FED fAg|fed cAF|G3 GAF|DGG G2:|
+%
+f|afa geg|fed cAG|ABG ABc|dcA Afg|
+afa geg|fdf ecA|G3 GAF|DGG G2:|
+
+%%%
+
+X:21188 
+T:SUNSHINE HORNPIPE, The  
+B:DMI.0952
+Z:Nordberg/Black
+R:hornpipe
+%Q:1/4=150
+M:C
+L:1/8
+K:A
+cd|e2c2 A2ED|CEAc ecAc|d2c2 B2A2|GBFB E2cd|
+eace AcED|CEAc ecAc|d2c2 B2G2|Aaec A2:|
+Bc|dBGB EGBc|dBGB d2cd|ecA2 EAcd|ecAe a2ga|
+fdBd fdcA|GBAF E2cd|eafd cABG|Aaec A2:|
+
+
+%%
+P:source version
+cd|(3eae (3cec (3AcA ED|CEAc ecAc|(3dfd (3cec (3BdB (3AcA|\
+GBFB E2cd|
+eace AcED|CEAc ecAc|(3dfd (3cec (3BdB (3GBG|Aaec A2:|
+Bc|dBGB EGBc|dBGB d2cd|ec (3AcA EAcd|ec (3Ace a2ga|
+fdBd FD cA|(3GAB (3AGF E2cd|eafd cABG|Aaec A2:|
+%
+
+%%%
+
+X:21181 
+T:SLIGO LASSES (reel), The
+B:DMI.0636
+Z:Nordberg/Black
+R:reel
+%Q:1/4=180
+M:C|
+L:1/8
+K:G
+AF|G2BG DGBG|D2 FD dAFA|G2BG DGef|1 gedc BG:|\
+[2 gedc Bdef||
+g2bg dgbg|fgag fdef|g2bg dgbg|dega bgg2|
+dgbg dgbg|fgag fdef|gaba gedc|BdAG FDEF||
+"final"HG4z4|]
+
+%%%
+
+X:21189 
+T:SWINGING AROUND THE CIRCLE (hornpipe) 
+B:DMI.0947
+Z:Nordberg/Black
+R:hornpipe
+%Q:1/4=150
+M:C|
+L:1/8
+K:D
+FG|ABAG FDFA|BABc dcdB|AFdB AFDF|EDEF E2FG|
+ABAG FDFA|BABc dcdB|AdcB AGFE|D2DE D2:|
+FG|AddB Add2|Adfd edcd|efgf edcf|edcB AGFG|
+AddB Add2|Adfd edcd|efgf edce|d2dcd2:|
+
+%%%
+
+X:21190 
+T:TEETOTALER'S FANCY (reel), The
+B:DMI.0795
+Z:Nordberg/Black
+N:Single in DMI
+R:reel
+%Q:1/4=180
+M:C|
+L:1/8
+K:G
+F|G2GF GABc|d2ge dBAc|BEED EFGA|BGAF GFED|
+G2GF GABc|dBge dBAc|BEED EFGA|BcAF G3 :|
+A|Beed e3f|gfaf gfed|Bddc d3e|fgaf gfed|
+Beed e3f|gfaf gfed|efed BABd|1 "thru"egaf gedc :|
+[2 "final" ecdB G4|]
+
+%%%
+
+
+%%%
+
+X:21191 
+T:THREE HALFPENCE A DAY 
+B:DMI.0364
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+"A dorian"
+B|cBA BAG|AGE GED|cBA dBG|EAA A2B|
+cBA BAG|AGE GED|EFE E2D|EAA A2:|
+B|cBc dcd|ecA GED|cBc dfd|cAB c2d|
+edc dcB|cBA GED|EFE E2D|EAA A2:|
+
+%%%
+
+X:21192 
+T:TIM THE MARKET MAN (reel)
+B:DMI.0690
+Z:Nordberg/Black
+R:reel
+%Q:1/4=180
+M:C|
+L:1/8
+K:C
+z2|A2GE AGFE|A2GE G2EG|A3c BGGB|AddB cdec|
+A2GE AGFE|A2GE G2EG|A3c BGGB|AddB c2cd||
+efed efge|GAGE G2EG|A2GA BGGc|dedB c2cd|
+eged efge|GAGE G2EG|A3c BGGc|dedB c4|]
+
+
+%%vskip
+P:Source version
+A>AGE (3AcA GE|(3AcA GE G2 (3EFG|AA2c BGGB|AddB ccec|
+A>AGE (3AcA GE|(3AcA GE G2 (3EFG|AA2c BGGB|AddB c2cd||
+ee2d efg2|GAGE G2EG|AA2c BGGc|AddB c2cd|
+(3efg ed efg2|GAGE G2(3EFG|AA2c BGGc|AddB c4|]
+%%%
+
+X:21193 
+T:TINKER'S REEL, The 
+B:DMI.0782
+Z:Nordberg/Black
+R:reel
+%Q:1/4=180
+M:C|
+L:1/8
+K:D
+F2EF D3E|FDED FDED|FDEF D3E|FABc dBAG|
+F2EF D3E|FDED FDED|FGEF D2DE|FABc d2cd||
+edBd egfe|fdAd fgaf|edBd egfe|dBAF GFEd|
+edBd egfe|fdad bdad|gbge fafd|edBA dBAG||
+"final" HD4z4|]
+
+%%%
+
+X:21194 
+T:TOMGRANEY CASTLE (hornpipe)
+T:Tuamgraney Castle 
+B:DMI.0949
+Z:Nordberg/Black
+R:hornpipe
+%Q:1/4=150
+M:C|
+L:1/8
+K:Am
+cB|A2AB AGEG|AGAB cBcd|e^fga gedc|B2G2 G2cB|
+A2AB AGEG|AGAB cBcd|egfa gede|c2A2A2:|
+eg|a2ab ageg|agab a2ge|dega gedc|B2G2 G2cB|
+A2AB AGEG|AGAB cBcd|egfa gede|c2A2A2:|
+
+%%%
+
+X:21195 
+T:TOW ROW ROW  
+B:DMI.0989
+Z:Nordberg/Black
+N:This appears in the "Miscellaneous" section of DMI.
+To me it makes a great polka. DMI has mm 9-24 repeating, 
+but my version is in three repeating parts.
+R:polka 
+%Q:1/4=140
+M:2/4
+L:1/8
+K:G
+P:simplified version
+f|gB BA/G/|FA AB/A/|Gg ga|bg gf|
+gB BA/G/|FA AB/A/|Gg ga|bg g:|
+%
+B|:dB de/f/|gf ed|dB de/f/|gf ed|
+e2 ed|gB BA|GF GA|BG ED :|
+%
+GF GB|A2 AB|Gg fe|dc BA|
+G2 GB|A2 AB|Gg fa|g2 g2 :|
+
+
+%%vskip
+P:source version
+(3d/e/f/|gB BA/G/|FA AB/A/|Gg g/f/g/a/|bgg (3d/e/f/|
+gB BA/G/|FA FB/A/|Gg g/f/g/a/|bg g:|
+B/c/|dB de/f/|gf ed|dB de/f/|gf ed|
+e/e/e/e/ ed|gB BA|G/G/G/F/ GA|BG ED|
+G/G/G/F/ GB|A/A/A/A/ AB|Gg fe|dc BA|
+G/G/G/G/ GB|A/A/A/A/ AB|Gg fa|g2 g:|
+%
+
+%%%
+
+X:21196
+T:TRIP TO GALWAY, The 
+B:DMI.0345
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:Em %source key = Dm
+c|BGE EGB|ded BAG|FAE DED|FGA Bdc|
+BGE EGA|Bc^d e2f|gfe fed|Bee e2:|
+f|gfe bge|ega bge|fed afd|dfg agf|
+gfe fed|ege dBA|GAB dcd|Bee e2:|
+
+
+%%%
+
+X:21197 
+T:WE'LL DRINK GOOD HEALTH (hornpipe) 
+B:DMI.0955
+Z:Nordberg/Black
+R:hornpipe
+%Q:1/4=150
+M:C|
+L:1/8
+K:D
+Ac|dcec dBAF|DEGE DEFG|Adcd BGED|CDEF E2Ac|
+d2ec dBAF|DCEC DEFG|Adcd BGEC|D2DC D2:|
+FG|ABcd edeg|fdec dcde|fdec dBAF|E2ED E2 Ac|
+d2ec dBAF|DCEC DEFG|Adcd BGEC|D2DC D2:|
+
+%%%
+
+X:21198 
+T:WEDDING REEL, The
+B:DMI.0597
+Z:Nordberg/Black
+R:reel
+%Q:1/4=180
+M:C|
+L:1/8
+K:G
+dc|B2AG BGAF|G2Bd gedc|BGAG BGAG|FDEF G2dc|
+B2AG BGAF|G2Bd gedc|BGAG BGAG|FDEF G2:|
+ef|g2ge fgaf|g2ge fddf|g2ge fgaf|bgef g2df|
+g2ge fgaf|gfge fddg|bgag bgag|fdef g2:|
+
+%%%
+
+X:21199 
+T:WEDDING OF BALLYPOREEN, The 
+B:DMI.0996
+Z:Nordberg/Black
+N:In Set Dance section of DMI without
+repeats.
+R:jig 
+%Q:1/4=160
+M:6/8
+N:Dotted rhythm removed
+L:1/8
+K:G
+A|GAG gfg|agf g2a|bag efg|dec B2A|
+GAG gfg|agf g2a|bag efg|dec B2 :|
+d|ecA ABA|e3 c2c|dBG GAG|d3 B2d|
+ecA ABA|a3 f3|gdB cAF|G3 G2 :|
+
+%%%
+
+X:21200 
+T:WHEN YOU GO HOME 
+B:DMI.0334
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+"D modal"
+G|FDE F2d|cAA BAG|FDE F2d|cAF GAG|
+FDE F2d|cAB cde|fef ded|cAF G2:|
+B|cAA fed|cAG A2B|cAA fed|cAF G2B|
+cAA fed|cAB cde|1 "thru"fef ded|cAF G2:|
+[2 "final" fef dCA|GFE HD3|
+
+%%%
+
+X:21201 
+T:WISE NORA 
+B:DMI.0126
+Z:Nordberg/Black
+N:One of the "big tunes" in the Irish tradition. Also
+known by its Gaelic name "Nora Crion(n)a".
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+A|GAG G2A|B2G d2B|GAG G2B|A2B dcA|
+GAG G2A|BAG ABc|d2e fef|A2B cB:|
+%
+c|ded d2c|B2G d2B|ded d2B|A2B cBA|
+ded d2c|BAG ABc|d2e fef|A2B cB:|
+%
+A|BGG dGG|BAG dBG|AFF cFF|AFA cBA|
+BGG dGG|BAG ABc|d2e fef|A2B cB:|
+%
+F|GBd GBd|GBd dcB|GBd GBd|A2B cBA|
+GBd GBd|GBd dcB|GBd fef|A2B cB:|
+%
+F|GBd gfg|agf g3|BGd g2B|A2B cBA|
+GBd gfg|agf g2a|bag agf|A2B cB:|
+%
+c|dBG GDG|BGB d2B|dBG GDG|A2B cBA|
+dBG GDG|BGB dcB|GBd fef|1 "thru"A2B cB:|
+[2 "final"A2B cAF|G6|]
+
+%%%
+
+X:21202 
+T:WITH ALL MY HEART 
+B:DMI.0368
+Z:Nordberg/Black
+R:jig
+N:Makes a great slide played at a faster speed (say 180)!
+%Q:1/4=160
+M:12/8
+L:1/8
+K:G
+"D mix"
+G|F2D DED F2D D2G|A2c BAG A3 A2G|
+[1 F2D DED F2D D2F|G2B AGF G3 A2:|
+[2 agf gfe fed cAF|G2B AGF G3 F2||
+E|A2d d2e f2d cAG|A2c BAG A3 F2G|
+[1 A2d d2e f2d cAF|G2B AGF G3 F2 :|
+[2 agf gfe fed cAF|G2B AGE HD3|
+
+%%%
+
+X:21203 
+T:WOEFUL WIDOW, The 
+B:DMI.0307
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+d|efe edB|dBA BGE|GAG BdB|BAA ABd|
+efe edB|dBA BGE|GFG BdB|AGG G2:|
+A|GBd g3|agf g2e|gfe edB|dBA BGE|
+GBd g3|agf g2e|dBA BGE|DGG G2:|
+
+%%%
+
+X:21204 
+T:WREN HORNPIPE, The 
+B:DMI.0945
+Z:Nordberg/Black
+N:If the high |c'| in m.9 is a problem, you can replace 
+/ ac'/ with / a2 / or / ab /.
+R:hornpipe
+%Q:1/4=150
+M:C|
+L:1/8
+K:Am
+ed|cBAG AcBA|GEDE G3B|cBAG ABcd|eaag e2de|
+cBAG AcBA|GEDE GABd|c2BA GABG|A2AB A2:|
+g2|"9"a2a2 ac'ba|gede g3^f|g^fga b2a2|gede d3B|
+cBAG AcBA|GEDE GABd|c2BA GABG|A2ABA2:|
+
+%%%
+
+X:21205 
+T:YELLOW WATTLE, The 
+B:DMI.0353
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+"D mix"
+B|cdA AGE|ABA AGE|dcA AGE|GAG GED|
+dcA AGE|ABA AGE|dcA ABc|dcA GE:|
+%
+D|G2G AEE|AGG AEE|G2G AEE|AGG GEA|
+G2G AEE|AGG AEE|G2G ABc|dcA GE:|
+%
+E|DFA DED|DFA GED|DFA DED|DEF GED|
+DFA DEE|DFA GED|DFA ABc|dcA GE:|
+%
+D|EGE FED|AFD FED|EGE FED|GEA GED|
+EGE FED|AFD FED|DFA ABc|1 "thru"dcA GE:|
+[2 "final" GFE HD3|]
+
+%%%
+
+X:21206 
+T:YESTERDAY MORNING 
+B:DMI.0323
+Z:Nordberg/Black
+R:jig
+%Q:1/4=160
+M:6/8
+L:1/8
+K:G
+F|DGG GAG|FDF ABc|BdB cAc|BGA FGE|
+DGG GAG|FDF ABc|BdB c2B|AGF G2:|
+c|Bdd ded|efg d2c|BGB cAc|BGA FGE|
+DGG GAG|FDF ABc|BdB c2B|AGF G2:|
+
+%%%
+
+X:21207 
+T:YOU ROGUE YOU DAR'N'T MEDDLE ME (reel)
+B:DMI.0632
+Z:Nordberg/Black
+R:reel
+%Q:1/4=180
+M:C|
+L:1/8
+K:G
+"A dorian"
+AB|cABG AGEF|GABc dBGB|cABG AGED|EAAB A2:|
+E2|ABcd e2ef|gefd ecAG|ABcd e2ed|eaag a2a2|
+ABcd edef|gefd ecAB|cABG AGED|EAAB A4|]
+
+%%%
+
+X:21208 
+T:YOUR MOTHER'S FAIR PET (reel)
+B:DMI.0615
+Z:Nordberg/Black
+N:This is another tune where the C's could either be sharp 
+(per DMI key signature) or natural (per what my ear tells me!),
+as accented C's usually are in Irish dance tunes. You can 
+hear the source version (with C sharps) by replacing G with 
+D in the %K: field.
+R:reel
+%Q:1/4=180
+M:C|
+L:1/8
+K:G
+"D modal"
+ed|cAAB cded|cAGE EDDB|cBAB cdeg|1 fdec df:|\
+[2 fdec d2|
+de|f2fa e2eg|fded cAAg|f2fa e2eg|fdec d2de|
+f2fa e2eg|fded cAAg|f3f eaag|fdec d4|]
+
+
+
+
+%%% end of DMI file %%%s
+
+
