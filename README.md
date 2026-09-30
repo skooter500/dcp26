@@ -246,7 +246,7 @@ tune = {
 }
 ```
 
-Final output should be a printout of all the titles and alt_titles for each tune in the file
+Final output should be a printout of all the titles and alt_titles for each tune in the file by iterating through the list of dictionaries.
  
 ```python
 print(f"Found {len(tunes)} tunes")
@@ -255,6 +255,14 @@ print(tunes[0])
 print("\nLast tune:")
 print(tunes[-1])
 ```
+
+Additional challenges!
+
+- Count of all the reels
+- Count of all the jigs
+- List of all tunes with "Green" in the title
+
+(One line of code for each!)
 
 Submit your code on brightspace. Attempt this lab without the use of AI code. If you wish, you may ask AI prompts such as:
 
