@@ -41,11 +41,221 @@ Quick References:
 - [Python Quick Reference](week1/python_quick_ref.html)
 - [Git Quick Reference](http://github.com/skooter500/csresources/git_ref.pdf)
 
-## Week 11 - Pandas & Graphing
-- [MatPlotLib](week10/matplotlib_lesson.pdf)
-- [Pandas](pandas.pdf)
-- [Notes](week11/pandas_graphs.pdf)
 
+## Week 3 - Lists, Dictionaries, Strings, Slicing
+
+- [Slides](week4/python_fundamentals.pdf)
+
+
+### Lab 3 - Parsing Traditional Music Scores in ABC Notation
+
+ABC is a text-based music score notation system. [Read about ABC notation](https://abcnotation.com/).  Each tune has metadata (title, key, type) and the melody.
+
+An ABC file looks like this:
+
+```
+X:21001 
+T:FUNNY TAILOR, The
+R:jig 
+M:6/8
+L:1/8
+K:G
+BA|GED GAB|GBA G2G|...
+
+%%%
+
+X:21002 
+T:BUNKER HILL (reel)
+R:reel
+K:G
+...
+```
+
+- Every tune starts with `X:` followed by a number!!
+- `T:` or `t:` lines contain the title (can have multiple T: lines - first is main title, second is alt_title)
+- `R:` is the tune type (reel, jig, hornpipe, slip jig, etc.)
+- `K:` is the musical key (G, D, Em, Dmaj, etc.)
+- Tunes end with blank lines
+- Everything from X: to the blank lines is the tune
+
+## Loading the file
+
+```
+# read the file to a list of strings
+with open("data/oneills.abc", 'r', encoding='latin-1') as f:
+    lines = f.readlines()
+
+```
+
+- Print the total number of lines
+- Print the first 20 lines to see the structure
+- Print the last 10 lines
+- Print the file backwards!
+
+## Parse Tunes into a List of Dictionaries
+
+- Loop through all lines
+- When you see a line starting with "X:", that's a new tune
+- Collect lines until you hit blank lines
+- A blank line is when `line.strip() == ""`
+
+```python
+tunes = []
+in_tune = False
+
+for line in lines:
+    # Check if this starts a new tune
+    if line.startswith("X:"):
+        pass
+    ...
+    ...
+        
+```
+
+### Dictionaries
+```python
+# Creating dictionaries
+star = {
+    "name": "Sirius",
+    "distance": 2.6,
+    "spectral_class": "A0m",
+    "magnitude": 1.46
+}
+
+# Empty dictionary
+empty = {}
+also_empty = dict()
+
+# From list of tuples
+star2 = dict([("name", "Sol"), ("distance", 0)])
+```
+
+### Accessing Dictionary Values
+
+```python
+star = {
+    "name": "Sirius",
+    "distance": 2.6,
+    "spectral_class": "A0m"
+}
+
+# Access by key
+print(star["name"])  # "Sirius"
+print(star["distance"])  # 2.6
+
+# Safe access with get() - returns None if key doesn't exist
+print(star.get("name"))  # "Sirius"
+print(star.get("color"))  # None
+print(star.get("color", "Unknown"))  # "Unknown" (default value)
+
+# This causes an error!
+# print(star["color"])  # KeyError: 'color'
+```
+
+### Modifying Dictionaries
+
+```python
+star = {"name": "Sirius", "distance": 2.6}
+
+# Add new key-value pair
+star["spectral_class"] = "A0m"
+
+# Modify existing value
+star["distance"] = 2.64
+
+# Remove key-value pair
+del star["spectral_class"]
+
+# Remove and return value
+magnitude = star.pop("magnitude", None)
+
+# Update multiple values at once
+star.update({"distance": 2.6, "color": "white"})
+
+# Clear all items
+star.clear()
+```
+
+### Dictionary Operations
+
+```python
+star = {
+    "name": "Sirius",
+    "distance": 2.6,
+    "spectral_class": "A0m"
+}
+
+# Length (number of key-value pairs)
+print(len(star))  # 3
+
+# Check if key exists
+print("name" in star)  # True
+print("color" in star)  # False
+
+# Get all keys
+print(star.keys())  # dict_keys(['name', 'distance', 'spectral_class'])
+
+# Get all values
+print(star.values())  # dict_values(['Sirius', 2.6, 'A0m'])
+
+# Get all key-value pairs
+print(star.items())  # dict_items([('name', 'Sirius'), ('distance', 2.6), ('spectral_class', 'A0m')])
+```
+
+### Iterating Over Dictionaries
+
+```python
+star = {
+    "name": "Sirius",
+    "distance": 2.6,
+    "spectral_class": "A0m"
+}
+
+# Iterate over keys (default)
+for key in star:
+    print(key)
+
+# Explicitly iterate over keys
+for key in star.keys():
+    print(f"{key}: {star[key]}")
+
+# Iterate over values
+for value in star.values():
+    print(value)
+
+# Iterate over key-value pairs (most common)
+for key, value in star.items():
+    print(f"{key} = {value}")
+```
+
+
+
+For each tune, extract:
+- **X:** The tune ID (just the number part)
+- **T:** Title (first T: line you encounter)
+- **Alt Title:** Second T: line (if it exists)
+- **R:** Tune type (the text after R:)
+- **K:** Key (the text after K:)
+- **Notation:** All lines from X: to end (as a single string)
+
+```
+tune = {
+    'X': None,
+    'title': None,
+    'alt_title': None,
+    'tune_type': None,
+    'key': None,
+}
+```
+
+ 
+```python
+print(f"Found {len(tunes)} tunes")
+print("\nFirst tune:")
+print(tunes[0])
+print("\nLast tune:")
+print(tunes[-1])
+```
 
 ## Week 2 - Python Fundamentals
 
