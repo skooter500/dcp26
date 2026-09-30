@@ -34,8 +34,6 @@ Course Notes:
 - [TKInter](week4/tkinter_slides.pdf)
 - [MatPlotLib](week10/matplotlib_lesson.pdf)
 
-Programs we developed in class:
--
 
 Quick References:
 - [Python Quick Reference](week1/python_quick_ref.html)
@@ -248,6 +246,7 @@ tune = {
 }
 ```
 
+Final output should be a printout of all the titles and alt_titles for each tune in the file
  
 ```python
 print(f"Found {len(tunes)} tunes")
@@ -256,6 +255,13 @@ print(tunes[0])
 print("\nLast tune:")
 print(tunes[-1])
 ```
+
+Submit your code on brightspace. Attempt this lab without the use of AI code. If you wish, you may ask AI prompts such as:
+
+"Explain how to load text files in python with examples"
+
+"Teach me how to use dictionaries with examples"
+"How does a for loop work. Show me"
 
 ## Week 2 - Python Fundamentals
 
