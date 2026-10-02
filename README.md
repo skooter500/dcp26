@@ -14,7 +14,7 @@ Welcome to the Metaverse
 # Resources
 - [CSResources git repo](https://github.com/skooter500/csresources/blob/main/git_ref.pdf). Here you will find links to the previous courses and all my quick references
 - [Git for poets](https://www.youtube.com/watch?v=BCQHnlnPusY)
-- [Python a Crash Course](https://khwarizmi.org/wp-content/uploads/2021/04/Eric_Matthes_Python_Crash_Course_A_Hands.pdf)
+- [Python a Crash Course](https://drive.google.com/file/d/1Hu_Rd-spILyNWmoBw1HubHWrkmfz0zKh/view)
 - https://codingbat.com/python
 * [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 * [The Nature of Code](http://natureofcode.com/)
