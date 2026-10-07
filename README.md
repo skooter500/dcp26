@@ -126,11 +126,12 @@ print(random_key)
 
 Train DANI on the shakespere sonnets and create the program to write the poem
 
-Extra!
-
-Try and incorporate the frequency of word following into the model and poem generation
 
 Congrations you have created an N-Gram 1 language model :-) N-Gram 5 or 6 was State of the Art before LLMs
+
+Extras to try!
+
+- Incorporate the word following and the word following that into the model and poem generation N-Gram 2
 
 For more about DANI see:
 
