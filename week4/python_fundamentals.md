@@ -817,6 +817,8 @@ person = {
     "email": "alice@email.com"
 }
 
+
+
 # Accessing values
 print(person["name"])          # Alice
 print(person.get("age"))       # 30

@@ -39,6 +39,106 @@ Quick References:
 - [Python Quick Reference](week1/python_quick_ref.html)
 - [Git Quick Reference](http://github.com/skooter500/csresources/git_ref.pdf)
 
+## Week 4 - More collections & strings
+
+## Lab
+
+# AI Shakespere
+
+### Overview
+
+Part 1
+- Load the file shakespere.txt into a a list of Dictionaries, where each Dictionary has a key consisting of the roman numeral number of the sonnet and value of the 14 lines of the Sonnet
+- Print the list in the form of roman numeral + first line of the sonnet
+
+Part 2
+
+Program DANI - Dynamic Artificial Non-Intelligence. An AI capable of many tasks, such as writing Poetry. Here are two examples of DANI's poems:
+
+```
+father let this in thee shall shine
+identify do mine only care i ensconce
+who calls thee releasing
+fleeting year would have lookd on the
+thine heir might have faculty by us
+thrall
+bed
+liii
+presence grace impiety
+wane so suited and sun of hand
+untrue
+sending a united states who will believe
+project gutenbergtm license apply to anyone in
+nurseth the lease of compliance to identify
+
+adding one most which the deathbed whereon
+travel forth all away yourself in process
+seen the wretch to complying with frost
+being fond on men ride
+whateer thy minds to occur a son
+reported to prove me words respect
+famine where i cannot contain a bastard
+thorns did exceed
+effectually is had stoln of year thou
+treasure of skill and unfatherd fruit
+liii
+5000 are restord and distribution of hearsay
+ill well esteemd
+stole that fair friend for through 1e7
+```
+
+DANI works, by loading a text and storing a list of each word from the document in an Dictionary. The key is the word itself and the value is a list, where each element is the word following. This is called the "model". 
+
+For example, for this input file:
+
+```
+i love Star Trek
+love is love
+I love TU Dublin 
+```
+
+DANI will generate the following model:
+
+
+```
+i: love 
+love: star is tu 
+star: trek
+trek:
+is: love
+tu: dublin
+dublin:
+```
+
+Each word is listed once in the model, regardless of how many times it occurs in the document. Each word is printed and all of the words that follow the word in the text. In the above example, the words star is and tu follow the word love. The word i is followed by the word love.
+
+To write a poem, DANI picks one word at random from the model and starts with that. Then DANI looks to see what possible words will follow the chosen word and it picks one at random from the list for the next word. It then repeats the process until it has 8 words, or until it finds a word that has nothing following it - in which case it will terminate the sentence. It does this 14 times to write a poem as there are 14 lines in a sonnet.
+
+To get a random key from a dictionary:
+
+```
+import random
+
+my_dict = {'a': 1, 'b': 2, 'c': 3, 'd': 4}
+random_key = random.choice(list(my_dict.keys()))
+print(random_key)
+```
+
+Train DANI on the shakespere sonnets and create the program to write the poem
+
+Extra!
+
+Try and incorporate the frequency of word following into the model and poem generation
+
+Congrations you have created an N-Gram 1 language model :-) N-Gram 5 or 6 was State of the Art before LLMs
+
+For more about DANI see:
+
+- https://bryanduggan.org/projects/i-am-dani/
+- https://bryanduggan.org/2024/10/02/we-are-dani/
+- https://bryanduggan.org/2023/06/12/dani-a-poetry-writing-chatbot-from-1987-arrives-in-2023/
+
+
 
 ## Week 3 - Lists, Dictionaries, Strings, Slicing
 
