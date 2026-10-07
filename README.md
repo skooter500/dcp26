@@ -132,7 +132,9 @@ Congrations you have created an N-Gram 1 language model :-) N-Gram 5 or 6 was St
 Extras to try!
 
 - Incorporate the word following and the word following that into the model and poem generation N-Gram 2
-
+- Try a different language!
+- Add Text to Speech 
+- Make DANI conversational. Learn from the users inputs
 For more about DANI see:
 
 - https://bryanduggan.org/projects/i-am-dani/
