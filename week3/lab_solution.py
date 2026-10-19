@@ -5,7 +5,7 @@ with open("data/oneills.abc", 'r', encoding='latin-1') as f:
     lines = f.readlines()
 
 oneills = []
-current_tune = None
+current_tune = {}
 current_tune_notation = ""
 for line in lines:    
     if line.startswith("X:"):

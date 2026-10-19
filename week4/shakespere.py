@@ -48,7 +48,7 @@ def add_to_model(sentence):
                 model[word] = after_list
         else:
             if after:
-                model[word] = [after]
+                model[word] = [after] # add to dictionary
             else:
                 model[word] = []
 
@@ -85,3 +85,29 @@ print()
 print(poem)
 
 # print_model()
+
+def generate_response(s):
+    global model
+    words = s.split(" ")
+    rand_word = words[random.randint(0, len(words) - 1)]
+    if rand_word in model.keys():
+        word = random.choice(list(model.keys()))    
+        sentence = ""
+        for i in range(8):
+            sentence += word + " "
+            if word in model.keys():
+                after_list = model[word]
+                if len(after_list) == 0:
+                    break
+                else:
+                    word = random.choice(after_list)
+        return sentence
+
+model = {}
+while True:
+    s = input("U:> ")
+    if s == "end":
+        break
+    add_to_model(s)
+    r = generate_response(s)
+    print(r)
