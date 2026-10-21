@@ -8,7 +8,7 @@ Welcome to the Metaverse
 
 ## Assessment
 - 20% Weekly submissions
-- [30% Assignment/Test]()
+- [30% Assignment/Test](https://github.com/skooter500/dcp26-assignmenmt)
 - 50% Exam
 
 # Resources
@@ -38,6 +38,190 @@ Course Notes:
 Quick References:
 - [Python Quick Reference](week1/python_quick_ref.html)
 - [Git Quick Reference](http://github.com/skooter500/csresources/git_ref.pdf)
+
+
+## Week 6 - Review of collections and strings
+
+## Python you will need for this lab
+
+### Reading a file line by line
+
+```python
+with open("data/tunes.txt") as f:
+    header = f.readline()      # read (and skip) the first line
+    for line in f:             # loop over the remaining lines
+        print(line, end="")    # each line already ends with "\n"
+```
+
+### Slicing fixed-width text
+
+In a fixed-width file every field starts at the same column on every line. Use slicing `line[start:end]` to cut out a field and `.strip()` to remove the padding spaces:
+
+```python
+line = "Rex       Dog       12  "
+#       0         10        20
+
+name    = line[0:10].strip()    # "Rex"
+species = line[10:20].strip()   # "Dog"
+age     = line[20:24].strip()   # "12"
+```
+
+### Converting text to numbers
+
+Slices are strings. Convert them to numbers before doing maths. An empty field can't be converted, so check for it first:
+
+```python
+age = "12"
+print(int(age) + 1)             # 13
+
+weight = ""
+if weight == "":
+    weight = 0
+else:
+    weight = int(weight)
+```
+
+### Dictionaries of dictionaries
+
+```python
+pets = {}                       # the "global" dictionary
+
+pet = {"name": "Rex", "species": "Dog", "age": 12}
+pets["P001"] = pet              # key is a unique ID, value is a dictionary
+
+print(pets["P001"]["name"])     # Rex
+
+for pet_id, pet in pets.items():
+    print(pet_id, pet["name"], pet["age"])
+
+if "P999" in pets:
+    print("Found")
+else:
+    print("Not found")
+```
+
+### Calculations and if statements
+
+```python
+total = (a * 0.2) + (b * 0.3) + (c * 0.5)
+
+if total >= 40 and c >= 40:
+    print("Pass")
+else:
+    print("Fail")
+```
+
+### Printing CSV and formatted output
+
+```python
+print(f"{name},{species},{age}")           # Rex,Dog,12
+print(f"Total: {total:.1f}")               # one decimal place
+```
+
+### A menu loop
+
+```python
+while True:
+    print("1. Say hello")
+    print("2. Quit")
+    choice = input("Choice: ")
+    if choice == "1":
+        print("Hello")
+    elif choice == "2":
+        break
+    else:
+        print("Invalid choice")
+```
+
+## Lab
+
+The file [data/exams.prn](data/exams.prn) is a printout of student marks for a module. It has a header line followed by one line per student. Open it in VS Code and look at it before you start.
+
+Every line is exactly 80 characters wide and the fields are always in these columns:
+
+| Field      | Columns (slice) |
+|------------|-----------------|
+| Last name  | `[0:14]`        |
+| First name | `[14:25]`       |
+| Number     | `[25:42]`       |
+| Engagement | `[42:56]`       |
+| Assignment | `[56:68]`       |
+| Exam       | `[68:80]`       |
+
+Some records are incomplete and have one or more marks missing. Treat a missing mark as 0.
+
+Write a program called `exams.py` and complete the following steps in order.
+
+### Step 1 - Print the file
+
+Open the file, read it line by line and print every line.
+
+### Step 2 - Extract the fields
+
+Skip the header line. Use string slicing to extract the fields from each line and print each record like this:
+
+```
+Name: Duggan, Bryan
+Number: Z12345678
+Engagement: 70
+Assignment: 56
+Exam: 60
+
+Name: Rogers, Mary
+...
+```
+
+### Step 3 - Store the records
+
+Create an empty global dictionary called `students`. For each line in the file:
+
+1. Create a dictionary for the record with the keys `last`, `first`, `number`, `engagement`, `assignment` and `exam`. Store the three marks as `int`s.
+2. Add it to `students`, using the student number as the key.
+
+After loading, print `len(students)` to check. It should be 250.
+
+### Step 4 - Pass or fail
+
+Write a function `result(student)` that returns `"Pass"` or `"Fail"` using these rules:
+
+- Total mark = (engagement × 0.2) + (assignment × 0.3) + (exam × 0.5)
+- A student passes if the total mark is *40 or more* and the exam mark is **40 or more**. Passing the exam is compulsory, so a student whose total is 40+ but whose exam is under 40 has failed.
+
+For example, Duggan has a total of 14 + 16.8 + 30 = 60.8 and an exam of 60, so they pass. Murphy has a total of 14 + 16.8 + 7.5 = 38.3, so they fail.
+
+### Step 5 - Menu
+
+Add a menu that repeats until the user quits:
+
+```
+Student Management System
+1. All marks
+2. Pass
+3. Fail
+4. Find student
+5. Quit
+```
+
+1. **All marks** - print every student in CSV format with their total and result:
+   ```
+   Duggan,Bryan,Z12345678,70,56,60,60.8,Pass
+   ```
+2. **Pass** - print only the students who passed, in the same format.
+3. **Fail** - print only the students who failed, in the same format.
+4. **Find student** - ask the user for a student number. Print that student's record (as in Step 2, plus total and result) if it's in `students`, otherwise print `Not found`.
+5. **Quit** - end the program.
+
+After options 2 and 3, also print how many students passed or failed.
+
+### Bonus
+
+- Require a username and password before showing the menu. Give the user 3 attempts.
+- Add a menu option that lists the incomplete records (any missing mark) separately.
+- Add a menu option that saves the All marks output to a file called `results.csv`.
+- Sort the output by last name, or by total mark from highest to lowest.
+
+
+## Week 5 - No Lab
 
 ## Week 4 - More collections & strings
 
