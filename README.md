@@ -42,6 +42,8 @@ Quick References:
 
 ## Week 6 - Review of collections and strings
 
+Clone this repo (or your fork) and work on it. Submit your hand written python file to Brightspace 
+
 ## Python you will need for this lab
 
 Don't forget [THE BOOK](https://drive.google.com/file/d/1Hu_Rd-spILyNWmoBw1HubHWrkmfz0zKh/view)
