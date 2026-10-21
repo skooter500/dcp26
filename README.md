@@ -44,6 +44,8 @@ Quick References:
 
 ## Python you will need for this lab
 
+Don't forget [THE BOOK](https://drive.google.com/file/d/1Hu_Rd-spILyNWmoBw1HubHWrkmfz0zKh/view)
+
 ### Reading a file line by line
 
 ```python
