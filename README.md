@@ -39,6 +39,244 @@ Quick References:
 - [Python Quick Reference](week1/python_quick_ref.html)
 - [Git Quick Reference](http://github.com/skooter500/csresources/git_ref.pdf)
 
+## Week 8 - Pandas
+
+- [THE BOOK](https://drive.google.com/file/d/1Hu_Rd-spILyNWmoBw1HubHWrkmfz0zKh/view)
+- [Pandas Notes](pandas.pdf)
+
+This week you will do the [Week 6 lab](#week-6---review-of-collections-and-strings) again using pandas and a CSV file. In Week 6 you read the file line by line, sliced out the fields and stored them in a dictionary of dictionaries. This time pandas does all of that in one line, and you work on whole columns instead of looping over students.
+
+Clone this repo (or your fork) and work on it. If you already have it, do a `git pull` to get the new data file. Submit your hand written python file to Brightspace 
+
+## Python you will need for this lab
+
+### Installing pandas
+
+```
+pip install pandas
+```
+
+Don't call your own file `pandas.py`. If you do, `import pandas` will load your file instead of the library.
+
+### The example file
+
+The examples below all use this small CSV file. If you want to try them, save it as `data/pets.csv`. Notice the empty fields: Tibbles has no weight and Polly has no age.
+
+```
+id,name,species,age,weight
+P001,Rex,Dog,12,30
+P002,Tibbles,Cat,4,
+P003,Polly,Parrot,,1
+```
+
+### Reading a CSV file
+
+```python
+import pandas as pd
+
+df = pd.read_csv("data/pets.csv")   # opens, reads and splits the whole file
+
+print(df)                           # the whole table
+print(df.head())                    # the first 5 rows
+print(len(df))                      # 3 (the number of rows)
+df.info()                           # the columns and their types
+```
+
+`df` is a **DataFrame**. It takes the place of the global dictionary from Week 6. Pandas uses the first line of the file as the column names, so `print(df)` gives:
+
+```
+     id     name species   age  weight
+0  P001      Rex     Dog  12.0    30.0
+1  P002  Tibbles     Cat   4.0     NaN
+2  P003    Polly  Parrot   NaN     1.0
+```
+
+The numbers on the left are the row index. Pandas adds these itself.
+
+### Selecting columns
+
+```python
+print(df["name"])                   # one column
+print(df[["name", "age"]])          # several columns (note the double brackets)
+```
+
+### Missing values
+
+An empty field in a CSV file becomes `NaN` ("not a number"). `NaN` is a float, so the whole column becomes floats, which is why 12 is now 12.0 in the table above. Fill in the missing values first and then convert the column back to `int`:
+
+```python
+print(df.isna().sum())                  # how many are missing in each column
+
+numbers = ["age", "weight"]
+df[numbers] = df[numbers].fillna(0)     # replace each NaN with 0
+df[numbers] = df[numbers].astype(int)   # 12.0 becomes 12
+```
+
+`df.info()` will show number columns as `float64` or `int64`. Text columns show as `str` or `object` depending on your version of pandas.
+
+### Calculating a new column
+
+A calculation on a column happens to every row, so you don't need a loop!! Assign the answer to a new name and pandas adds a new column:
+
+```python
+df["fee"] = (df["age"] * 0.2) + (df["weight"] * 0.3)
+df["fee"] = df["fee"].round(1)      # one decimal place
+```
+
+### Filtering rows with a mask
+
+A comparison on a column gives you a **mask**, which is a column of `True` and `False` values. Put the mask inside `df[...]` to keep the rows where it is `True`:
+
+```python
+mask = (df["age"] >= 4) & (df["weight"] >= 20)
+
+print(df[mask])                     # the rows that match
+print(df[~mask])                    # the rows that don't match
+print(len(df[mask]))                # how many rows match
+```
+
+Masks use their own symbols: `&` means and, `|` means or and `~` means not. Python's `and`, `or` and `not` won't work here, and you need brackets around each comparison.
+
+### Changing some of the rows
+
+`df.loc[mask, "column"]` is one column in the rows where the mask is `True`. Assign to it to change only those rows:
+
+```python
+df["size"] = "Small"                        # set every row to Small
+df.loc[df["weight"] >= 20, "size"] = "Big"  # then change the rows that match
+```
+
+### Finding one row
+
+Use a mask to look for the row. There are no matching rows if it isn't there:
+
+```python
+match = df[df["id"] == "P001"]
+
+if len(match) == 0:
+    print("Not found")
+else:
+    pet = match.iloc[0]             # iloc[0] is the first row of match
+    print(pet["name"])              # Rex
+```
+
+A single row works like the dictionaries from Week 6: `pet["name"]`, `pet["age"]` and so on.
+
+### Looping over the rows
+
+You won't need many loops in pandas, but `iterrows()` is there when you want to print each row your own way. It works like `pets.items()` did in Week 6:
+
+```python
+for index, pet in df.iterrows():
+    print(f"{pet['name']} is {pet['age']}")
+```
+
+Notice the single quotes inside the f-string.
+
+### Printing CSV
+
+```python
+print(df.to_csv(index=False, header=False))         # every row
+print(df[mask].to_csv(index=False, header=False))   # only the rows that match
+```
+
+`index=False` leaves out the row index and `header=False` leaves out the column names, so a row looks like this:
+
+```
+P001,Rex,Dog,12,30,11.4,Big
+```
+
+Give `to_csv` a file name to save to a file instead:
+
+```python
+df.to_csv("data/pets_out.csv", index=False, header=False)
+```
+
+## Lab
+
+The file [data/exams.csv](data/exams.csv) has the same 250 students as `data/exams.prn` from Week 6, but in CSV format. The columns are `last`, `first`, `number`, `engagement`, `assignment` and `exam`. Open it in VS Code and look at it before you start.
+
+Some records are incomplete and have one or more marks missing, which shows up as an empty field:
+
+```
+Brown,Dylan,Z16500265,35,,73
+```
+
+Treat a missing mark as 0.
+
+Write a program called `exams_pandas.py` and complete the following steps in order. You won't need any slicing, and the only `for` loop you need is in Step 3.
+
+### Step 1 - Load the file
+
+Use `pd.read_csv` to load the file into a DataFrame called `df`. Print `df.head()` and `len(df)`. It should be 250.
+
+Run `df.info()` and look at the types of the three mark columns.
+
+### Step 2 - Fix the missing marks
+
+Print how many values are missing in each column. You should get 3 for `engagement`, 6 for `assignment` and 3 for `exam`.
+
+Replace the missing marks with 0 and convert the three mark columns to `int`. Run `df.info()` again to check that they are now `int64`.
+
+### Step 3 - Print the records
+
+Loop over the rows and print each record like this:
+
+```
+Name: Duggan, Bryan
+Number: Z12345678
+Engagement: 70
+Assignment: 56
+Exam: 60
+
+Name: Rogers, Mary
+...
+```
+
+### Step 4 - Total and result
+
+Add two new columns to `df`, without using a loop:
+
+1. `total` - (engagement × 0.2) + (assignment × 0.3) + (exam × 0.5), rounded to 1 decimal place.
+2. `result` - `"Pass"` or `"Fail"`. The rules are the same as Week 6. A student passes if the total mark is **40 or more** and the exam mark is **40 or more**. Passing the exam is compulsory, so a student whose total is 40+ but whose exam is under 40 has failed.
+
+For example, Duggan has a total of 14 + 16.8 + 30 = 60.8 and an exam of 60, so they pass. Murphy has a total of 14 + 16.8 + 7.5 = 38.3, so they fail. Martin (Z21054176) has a total of 20 + 14.7 + 17 = 51.7 but an exam of 34, so they fail too.
+
+Print `df.head()` to check your new columns.
+
+### Step 5 - Menu
+
+Use the same menu loop as Week 6 to add a menu that repeats until the user quits:
+
+```
+Student Management System
+1. All marks
+2. Pass
+3. Fail
+4. Find student
+5. Quit
+```
+
+1. **All marks** - print every student in CSV format with their total and result:
+   ```
+   Duggan,Bryan,Z12345678,70,56,60,60.8,Pass
+   ```
+2. **Pass** - print only the students who passed, in the same format.
+3. **Fail** - print only the students who failed, in the same format.
+4. **Find student** - ask the user for a student number. Print that student's record (as in Step 3, plus total and result) if it's in `df`, otherwise print `Not found`.
+5. **Quit** - end the program.
+
+After options 2 and 3, also print how many students passed or failed. You should get 180 passes and 70 fails.
+
+### Bonus
+
+- Require a username and password before showing the menu. Give the user 3 attempts.
+- Add a menu option that lists the incomplete records (any missing mark) separately. There are 12 of them. You can't find them by looking for 0, because one student really did get 0 for their assignment, so find them before you fill in the missing marks. `df[["engagement", "assignment", "exam"]].isna().any(axis=1)` gives you a mask of the rows with a `NaN` in any of those columns.
+- Add a menu option that saves the All marks output to a file called `results.csv`.
+- Sort the output by last name, or by total mark from highest to lowest. Use `df.sort_values("last")` or `df.sort_values("total", ascending=False)`.
+
+Upload your work to Brightspace to get your engagement mark for today
+
 
 ## Week 6 - Review of collections and strings
 
