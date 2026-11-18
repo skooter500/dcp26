@@ -50,7 +50,7 @@ Clone this repo (or your fork) and work on it. If you already have it, do a `git
 
 ## Python you will need for this lab
 
-The [MatPlotLib Notes](week10/matplotlib_lesson.pdf) show you how to draw bar charts, histograms, scatter plots and subplots, and how to add labels, titles and legends. This section shows you how to get the data for them out of a DataFrame. The examples use `data/exams.csv` from Week 8:
+The [MatPlotLib Notes](week10/matplotlib_lesson.pdf) show you how to draw bar charts, histograms, scatter plots and subplots, and how to add labels, titles and legends. This section shows you how to get the data for them out of a DataFrame. The examples use `data/exams.csv` from Week 8. Test all of these before attempting the lab today!
 
 ```python
 import pandas as pd
