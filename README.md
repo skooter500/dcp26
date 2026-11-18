@@ -39,6 +39,284 @@ Quick References:
 - [Python Quick Reference](week1/python_quick_ref.html)
 - [Git Quick Reference](http://github.com/skooter500/csresources/git_ref.pdf)
 
+## Week 9 - Matplot lib
+
+- [MatPlotLib Notes](week10/matplotlib_lesson.pdf)
+- [Pandas Notes](pandas.pdf)
+
+This week you will use pandas and matplotlib together to find out things about 24,000 traditional Irish tunes. The data is far too big to read through, but a graph lets you see the answers. Each step asks you to draw a graph and then answer questions by looking at it.
+
+Clone this repo (or your fork) and work on it. If you already have it, do a `git pull`. Submit your hand written python file to Brightspace 
+
+## Python you will need for this lab
+
+The [MatPlotLib Notes](week10/matplotlib_lesson.pdf) show you how to draw bar charts, histograms, scatter plots and subplots, and how to add labels, titles and legends. This section shows you how to get the data for them out of a DataFrame. The examples use `data/exams.csv` from Week 8:
+
+```python
+import pandas as pd
+import matplotlib.pyplot as plt
+
+df = pd.read_csv("data/exams.csv")
+df = df.fillna(0)
+```
+
+### Counting and drawing a bar chart
+
+`value_counts()` counts how many times each value appears in a column, from most to least. `.index` holds the values and `.values` holds the counts, which is exactly what `plt.bar` needs:
+
+```python
+names = df["first"].value_counts().head(5)   # the 5 most common first names
+
+plt.bar(names.index, names.values)
+plt.xlabel("First name")
+plt.ylabel("Number of students")
+plt.show()
+```
+
+### Drawing a histogram of a column
+
+You can pass a column straight to `plt.hist`:
+
+```python
+plt.hist(df["exam"], bins=10, edgecolor="black")
+plt.show()
+```
+
+### Picking out rows from a list
+
+`isin` makes a mask that is `True` when a value is in a list. This keeps the students whose first name is one of the 5 most common:
+
+```python
+common = df[df["first"].isin(names.index)]
+```
+
+### Averages for each group
+
+`groupby` splits the rows into groups and works out something for each group. This gives the average exam mark for each of those first names, sorted from highest to lowest:
+
+```python
+avg = common.groupby("first")["exam"].mean()
+avg = avg.sort_values(ascending=False)
+
+plt.bar(avg.index, avg.values)
+plt.show()
+```
+
+### Scatter plots of two columns
+
+```python
+plt.scatter(df["assignment"], df["exam"], s=10, alpha=0.5)   # small, see-through dots
+plt.show()
+```
+
+### Text in lower case
+
+```python
+df["last"] = df["last"].str.lower()          # "Duggan" becomes "duggan"
+```
+
+### Rotating labels on subplots
+
+`plt.xticks(rotation=45)` only rotates the labels on the last subplot. On a subplot, use `tick_params` instead:
+
+```python
+fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(12, 5))
+ax1.bar(names.index, names.values)
+ax1.tick_params(axis="x", labelrotation=45)
+```
+
+### Saving a graph
+
+Call `plt.savefig` **before** `plt.show()`. Once the window is closed the graph is gone, and you'll save an empty picture:
+
+```python
+plt.savefig("names.png")
+plt.show()
+```
+
+## Lab
+
+The file [data/tuneindex.csv](data/tuneindex.csv) is an index of 24,482 traditional Irish tunes, mostly from [thesession.org](https://thesession.org). It's the same file you used in the [Pandas Notes](pandas.pdf). The columns you'll need are:
+
+| Column       | What it is                                                   |
+|--------------|--------------------------------------------------------------|
+| `title`      | The name of the tune                                         |
+| `tune_type`  | The type of dance, e.g. reel, jig, polka                     |
+| `time_sig`   | The time signature, e.g. 4/4, 6/8                            |
+| `downloaded` | How many times the tune has been downloaded                  |
+| `source`     | Where the tune came from. 1 means thesession.org             |
+| `x`          | The tune's number in its source. thesession.org numbers tunes in the order they were added, so a low number means an old tune |
+
+Write a program called `tunes_plot.py` and complete the following steps in order. Give every graph a title and axis labels. **Answer each question in a comment** under the code for that step, like this:
+
+```python
+# Q1. Reels are the most common tune type
+```
+
+### Step 1 - Load the file
+
+Load the file into a DataFrame called `df`. It's a big file, so it may take a second. Print `len(df)`. It should be 24482.
+
+```python
+import pandas as pd
+import matplotlib.pyplot as plt
+
+df = pd.read_csv("data/tuneindex.csv")
+print(len(df))
+df.info()            # the columns, and how many values each one has
+```
+
+> **Hint:** If you get a `FileNotFoundError`, your terminal isn't in the root of the repo. Run your program from the folder that has `data` in it, e.g. `python week9/tunes_plot.py`.
+
+### Step 2 - Tune types
+
+Draw a bar chart of the 10 most common tune types. Rotate the labels so you can read them.
+
+```python
+counts = df["tune_type"].value_counts().head(10)
+print(counts)                        # look at the numbers before you draw them
+
+plt.bar(counts.index, counts.values)
+plt.xticks(rotation=45, ha="right")
+plt.tight_layout()                   # stops the labels getting cut off
+# add your title and axis labels, then show the graph
+```
+
+- **Q1.** Which tune type is the most common?
+- **Q2.** Look carefully at the labels. Something is wrong with this chart. What is it?
+
+Fix the problem by changing `tune_type` to lower case **before** you count, then draw the chart again.
+
+> **Hint:** Put the line that changes the column to lower case *above* the `value_counts` line. Remember to assign the answer back to the column with `df["tune_type"] = ...`, otherwise `df` doesn't change. See [Text in lower case](#text-in-lower-case).
+
+- **Q3.** Roughly how many reels are there now?
+
+> **Hint:** Read Q3 off the side of the graph, then check it against what `print(counts)` shows.
+
+Keep `tune_type` in lower case for the rest of the lab.
+
+### Step 3 - Downloads
+
+Draw a histogram of `downloaded` with 50 bins.
+
+```python
+plt.hist(df["downloaded"], bins=50, edgecolor="black")
+# add your title and axis labels, then show the graph
+```
+
+- **Q4.** Do most tunes get a lot of downloads or only a few?
+- **Q5.** Roughly how many tunes are in the tallest bar?
+- **Q6.** The most downloaded tune is Cooley's with 4,432 downloads. Can you see it on the graph? Why is it so hard to see?
+
+> **Hint:** Each bar counts how many tunes have a number of downloads in that range. For Q6, think about how tall the bar for one single tune would be compared to the tallest bar. To check your answer, add `plt.yscale("log")` before you show the graph. This squashes the tall bars so the short ones show up.
+
+### Step 4 - Common or popular?
+
+Use `plt.subplots(1, 2)` to draw two bar charts side by side, both using the 10 most common tune types:
+
+- On the left, the number of tunes of each type (the chart from Step 2).
+- On the right, the **average** downloads for each type, sorted from highest to lowest.
+
+Start with the data for the right-hand chart. Look back at [Picking out rows from a list](#picking-out-rows-from-a-list) and [Averages for each group](#averages-for-each-group):
+
+```python
+top = counts.index                             # the 10 most common types from Step 2
+common = df[df["tune_type"].isin(top)]         # only the tunes of those types
+avg = ...                                      # the average downloads for each type
+avg = avg.sort_values(ascending=False)
+print(avg)
+```
+
+Then draw the two charts:
+
+```python
+fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(12, 5))
+
+ax1.bar(counts.index, counts.values)
+ax1.set_title("Number of tunes")
+ax1.tick_params(axis="x", labelrotation=45)
+
+ax2.bar(..., color="orange")
+# finish ax2 the same way as ax1
+
+plt.tight_layout()
+plt.show()
+```
+
+> **Hint:** On a subplot you call methods on the axes: `ax1.set_title`, `ax1.set_xlabel` and `ax1.set_ylabel` instead of `plt.title`, `plt.xlabel` and `plt.ylabel`.
+
+Answer these questions:
+
+- **Q7.** Which tune type has the most downloads on average? Which has the least?
+- **Q8.** Find a tune type that is near the right of the left chart but near the left of the right chart. What does that tell you about that type of tune?
+
+### Step 5 - Time signatures
+
+Use `plt.subplots(2, 2)` to draw a grid of four bar charts, one each for reels, jigs, polkas and waltzes. Each chart shows the 3 most common time signatures for that tune type. Give each chart a title with the tune type.
+
+Here is the first one. `axes[row, column]` picks the chart in the grid:
+
+```python
+fig, axes = plt.subplots(2, 2, figsize=(10, 8))
+
+reels = df[df["tune_type"] == "reel"]               # only the reels
+reel_times = reels["time_sig"].value_counts().head(3)
+axes[0, 0].bar(reel_times.index, reel_times.values)
+axes[0, 0].set_title("Reels")
+
+# jigs go in axes[0, 1], polkas in axes[1, 0] and waltzes in axes[1, 1]
+
+plt.tight_layout()
+plt.show()
+```
+
+> **Hint:** The four charts only differ in the tune type, the position in the grid and the title. Once all four work, try replacing them with a `for` loop over a list of tune types.
+
+- **Q9.** What time signature do most jigs use? Most polkas? Most waltzes?
+- **Q10.** Two of the bars on the reel chart aren't numbers. Look up what `C` and `C|` mean in music. Why do you think they show up for reels?
+
+> **Hint:** For Q10, search for "C time signature" and "C with a line through it time signature". Then compare what you find with the biggest bar on the reel chart.
+
+### Step 6 - Old tunes and new tunes
+
+Keep only the tunes from thesession.org (`source` is 1). Draw a scatter plot with `x` along the bottom and `downloaded` up the side. Draw the reels and the jigs in two different colours and add a legend. There are a lot of dots, so make them small and see-through.
+
+```python
+session = df[df["source"] == 1]
+session_reels = session[session["tune_type"] == "reel"]
+session_jigs = ...
+
+plt.figure(figsize=(10, 5))                  # a wider window
+plt.scatter(session_reels["x"], session_reels["downloaded"], s=5, alpha=0.3, label="Reels")
+# draw the jigs the same way, with their own label
+plt.legend()
+# add your title and axis labels, then show the graph
+```
+
+`s` is the size of the dots and `alpha` is how see-through they are (0 is invisible, 1 is solid). Each call to `plt.scatter` gets its own colour, and `plt.legend()` uses the `label`s.
+
+- **Q11.** Which tunes get the most downloads, the old ones or the new ones? Why do you think that is?
+- **Q12.** Roughly what tune numbers do the most downloaded tunes have?
+
+> **Hint:** A low number on the bottom means a tune that was added a long time ago. Look at where the dots reach highest up the graph, then look straight down to read the tune number.
+
+### Step 7 - Save your graphs
+
+Save each graph as a `.png` file (`step2.png`, `step3.png` and so on).
+
+```python
+plt.savefig("step2.png")     # always before plt.show()
+plt.show()
+```
+
+> **Hint:** The pictures are saved in the folder your terminal is in, not the folder your `.py` file is in. If a picture comes out blank, you called `savefig` after `show`.
+
+### Bonus
+
+- Draw a bar chart of the 10 most common keys (`key_sig`). In ABC notation `G` and `Gmaj` mean the same key. Find the other keys that are written two ways, combine them with `df["key_sig"].replace({"G": "Gmaj", ...})` and draw the chart again. Which two keys are the most common?
+
+  > **Hint:** `print(df["key_sig"].value_counts().head(20))` shows you more keys than the chart, so you can spot the pairs. A key letter on its own means major, and `m` on its own means minor, so `Am` is the same as `Amin`.
+
 ## Week 8 - Pandas
 
 - [THE BOOK](https://drive.google.com/file/d/1Hu_Rd-spILyNWmoBw1HubHWrkmfz0zKh/view)
@@ -232,6 +510,7 @@ Exam: 60
 Name: Rogers, Mary
 ...
 ```
+
 
 ### Step 4 - Total and result
 
