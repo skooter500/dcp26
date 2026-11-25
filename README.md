@@ -30,7 +30,7 @@ Course Notes:
 - [Python Introduction](week1/python_complete_presentation.pdf)
 - [Python Fundamentals](week4/python_fundamentals.pdf)
 - [Pandas](pandas.pdf)
-- [SQL Databases]()
+- [SQL Databases](week10/sql_databases.md)
 - [TKInter](week4/tkinter_slides.pdf)
 - [MatPlotLib](week10/matplotlib_lesson.pdf)
 
