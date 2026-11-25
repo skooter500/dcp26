@@ -2,6 +2,16 @@
 marp: true
 theme: default
 paginate: true
+style: |
+  section {
+    font-size: 26px;
+  }
+  pre {
+    font-size: 22px;
+  }
+  table {
+    font-size: 22px;
+  }
 ---
 
 # SQL Databases in Python
@@ -568,7 +578,8 @@ password = getpass("Database password: ")  # asks without showing it
 |  | SQLite | PostgreSQL | MySQL |
 |--|--------|------------|-------|
 | Import | `import sqlite3` | `import psycopg` | `import mysql.connector` |
-| Connect | `sqlite3.connect("file.db")` | `psycopg.connect(host=, dbname=, user=, password=)` | `mysql.connector.connect(host=, database=, user=, password=)` |
+| Connect | `sqlite3.connect` | `psycopg.connect` | `mysql.connector.connect` |
+| Connect needs | The file name | `host`, `dbname`, `user`, `password` | `host`, `database`, `user`, `password` |
 | Placeholder | `?` | `%s` | `%s` |
 | List tables | `sqlite_master` | `information_schema.tables` | `SHOW TABLES` |
 | Ignore capitals | `LIKE` | `ILIKE` | `LIKE` |
